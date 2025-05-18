@@ -1,0 +1,33 @@
+subject_id	subject_name
+MI1016	Calculus I
+MI1026	Giải tích II
+MI1026E	Calculus II
+MI1036	Algebra
+MI1046E	Differential equations and series
+MI1111	Giải tích I
+MI1112	Giải tích I
+MI1113	Giải tích I
+MI1120Q	Giải tích 2
+MI1121	Giải tích 2
+MI1122	Giải tích 2
+MI1124	Giải tích 2
+MI1124E	Calculus II
+MI1130Q	Giải tích III
+MI1131	Giải tích III
+MI1132	Giải tích III
+MI1133	Giải tích III
+MI1134	Phương trình vi phân và chuỗi
+MI1134E	Differential equations and series
+MI1141	Đại số
+MI1142	Đại số
+MI2010	Phương pháp tính
+MI2020	Xác suất thống kê
+MI2020E	Probability and statistics
+MI2021	Xác suất thống kê
+MI2023E	Xác suất thống kê
+MI2026	Xác suất thống kê
+MI2026E	Probability and statistics
+MI2034	Xác suất thống kê
+MI2036E	Probability statistics and Random signal processes
+MI2110	Phương pháp tính và Matlab
+MI3180	Xác suất thống kê và quy hoạch thực nghiệm

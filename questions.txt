@@ -1,0 +1,1200 @@
+question_id	chapter_id	difficulty	tex	created_at
+MI2026E-1-1	MI2026E-1	easy	"Problem 1: ( 1.5 points) A plane's ""black-box"" is manufactured by only 3 companies: AirCorp, BigSkies, and CharterUS - who make $55 \%, 25 \%$, and $20 \%$ of all the black-boxes made, respectively. Invariably, some of these are defective. Assuming the percentage of defective blackboxes made by AirCorp, BigSkies, and CharterUS are $4 \%, 6 \%$, and $9 \%$, respectively. Find the probability that a randomly selected black-box came from AirCorp given that it was found to be defective."	
+MI2026E-2-1	MI2026E-2	easy	"Problem 2: (2.0 points) Suppose X and Y are continuous random variables with the following joint probability density function (pdf):
+
+$$
+f(x, y)=\left\{\begin{array}{l}
+24 x y \text { if } x>0, y>0 \text { and } x+y<1, \\
+0 \text { otherwise. }
+\end{array}\right.
+$$
+
+
+Calculate the coefficient of correlation between $X$ and $Y$. Are $X$ and $Y$ independent?"	
+MI2026E-3-1	MI2026E-3	medium	"Problem 3: (2.0 points) Insurance companies are interested in knowing the population percent of drivers who always buckle up before riding in a car. They randomly surveyed 400 drivers and found that 320 claimed they always buckle up.
+a) Find the point estimator of the proportion ( $p$ ) of drivers who claim they always buckle up by the maximum likelihood estimation method.
+b) Find a $90 \%$ confidence interval for $p$."	
+MI2026E-4-1	MI2026E-4	medium	"Problem 4: (2.0 points) The dissolved oxygen content in river water was measured to determine whether a stream had sufficient oxygen to support aquatic life. A pollution control inspector suspected that a river community was releasing amounts of semitreated sewage into a river. To check his theory, he drew ten randomly selected specimens of river water at a location above the town, and another ten below. The dissolved oxygen readings (in parts per million) are as follows:
+
+Below Town: 5.0, 4.7, 4.9, 4.8, 4.9, 4.8, 4.7, 5.0, 4.8, 4.8
+Above Town: 4.8, 5.2, 5.0, 4.9, 5.1, 5.1, 4.9, 4.9, 5.4, 5.0
+Do the data provide sufficient evidence to indicate that the mean oxygen content below the town is less than the mean oxygen content above at $\alpha=5 \%$ level of significance? Suppose that the oxygen content of river water below or above the town was normally distributed with equal variances."	
+MI2026E-5-1	MI2026E-5	hard	"Problem 5: (2.5 points) A study was made on the amount of converted sugar $(Y)$ in a certain process at various temperatures $(X)$. The data were coded and recorded as follows:
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline$X$ & 1.0 & 1.1 & 1.2 & 1.3 & 1.4 & 1.5 & 1.6 & 1.7 & 1.8 & 1.9 \\
+\hline$Y$ & 8.1 & 7.8 & 8.5 & 9.8 & 9.5 & 8.9 & 8.6 & 10.2 & 9.3 & 9.2 \\
+\hline
+\end{tabular}
+a) Find the estimated regression line of $Y$ based on $X$.
+b) Test on the slope coefficient to determine whether there exists a positive linear relationship between $X$ and $Y$ at $5 \%$ level of significance.
+Given that: $\Phi(1.28)=0.9 ; \Phi(1.645)=0.95 ; \Phi(1.96)=0.975$ where $\Phi(z)=\int_{-\infty}^z \frac{1}{\sqrt{2 \pi}} e^{-x^2 / 2} d x$ and $t_{18 ; 0.05}=1.734 ; t_{18 ; 0.025}=2.1 ; t_{8 ; 0.05}=1.86 ; t_{8 ; 0.025}=2.31$."	
+MI2026E-1-2	MI2026E-1	easy	"Problem 1: (1.5 points) A plane's ""black-box"" is manufactured by only 3 companies: AirCorp, BigSkies, and CharterUS - who make $45 \%, 25 \%$, and $30 \%$ of all the black-boxes made, respectively. Invariably, some of these are defective. Assuming the percentage of defective blackboxes made by AirCorp, BigSkies, and CharterUS are $4 \%, 6 \%$, and $8 \%$, respectively. Find the probability that a randomly selected black-box came from BigSkies given that it was found to be defective."	
+MI2026E-2-2	MI2026E-2	easy	"Problem 2: (2.0 points) Suppose X and Y are continuous random variables with the following joint probability density function (pdf):
+
+$$
+f(x, y)=\left\{\begin{array}{l}
+\frac{3}{2} x y \text { if } x>0, y>0 \text { and } x+y<2, \\
+0 \text { otherwise }
+\end{array}\right.
+$$
+
+
+Calculate the coefficient of correlation between $X$ and $Y$. Are $X$ and $Y$ independent?"	
+MI2026E-3-2	MI2026E-3	medium	"Problem 3: ( 2.0 points) Insurance companies are interested in knowing the population percent of drivers who always buckle up before riding in a car. They randomly surveyed 500 drivers and found that 420 claimed they always buckle up.
+a) Find the point estimator of the proportion (p) of drivers who claim they always buckle up by the maximum likelihood estimation method.
+b) Find a $95 \%$ confidence interval for $p$."	
+MI2026E-4-2	MI2026E-4	medium	"Problem 4: (2.0 points) The dissolved oxygen content in river water was measured to determine whether a stream had sufficient oxygen to support aquatic life. A pollution control inspector suspected that a river community was releasing amounts of semitreated sewage into a river. To check his theory, he drew ten randomly selected specimens of river water at a location above the town, and another ten below. The dissolved oxygen readings (in parts per million) are as follows:
+
+Below Town: 5.1, 4.8, 5.0, 4.9, 5.0, 4.9, 4.8, 5.1, 4.9, 4.9
+Above Town: 4.9, 5.3, 5.1, 5.0, 5.2, 5.2, 5.0, 5.0, 5.5, 5.1
+Do the data provide sufficient evidence to indicate that the mean oxygen content below the town is less than the mean oxygen content above at $\alpha=5 \%$ level of significance? Suppose that the oxygen content of river water below or above the town was normally distributed with equal variances."	
+MI2026E-5-2	MI2026E-5	hard	"Problem 5: (2.5 points) A study was made on the amount of converted sugar $(Y)$ in a certain process at various temperatures $(X)$. The data were coded and recorded as follows:
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline$X$ & 1.1 & 1.2 & 1.3 & 1.4 & 1.5 & 1.6 & 1.7 & 1.8 & 1.9 & 2.0 \\
+\hline$Y$ & 8.0 & 7.7 & 8.4 & 9.7 & 9.4 & 8.8 & 8.5 & 10.1 & 9.2 & 9.1 \\
+\hline
+\end{tabular}
+a) Find the estimated regression line of $Y$ based on $X$.
+b) Test on the slope coefficient to determine whether there exists a positive linear relationship between $X$ and $Y$ at $5 \%$ level of significance.
+Given that: $\Phi(1.28)=0.9 ; \Phi(1.645)=0.95 ; \Phi(1.96)=0.975$ where $\Phi(z)=\int_{-\infty}^z \frac{1}{\sqrt{2 \pi}} e^{-x^2 / 2} d x$ and $t_{18 ; 0.05}=1.734 ; t_{18 ; 0.025}=2.1 ; t_{8 ; 0.05}=1.86 ; t_{8 ; 0.025}=2.31$."	
+MI1026-1-1	MI1026-1	easy	"Câu 1 (1?). Tính th? tích c?a hình h?p xác ??nh b?i ba vect? $\vec{a}=$ $(1,2,3), \vec{b}=(1,1,2)$ và $\vec{c}=(2,1,4)$."	
+MI1026-1-2	MI1026-1	easy	"Câu 2 (2?). Tìm v?n t?c, gia t?c và t?c ?? t?i $t=0$ c?a m?t ch?t ?i?m chuy?n ??ng xác ??nh b?i hàm vect? $\stackrel{\rightharpoonup}{r}(t)=\left(e^{\sin t}, \arctan t, t\right)$."	
+MI1026-2-1	MI1026-2	easy	"Câu 3 (2?). Tính các tích phân sau.
+(a) $\iint_D x d x d y$, trong ?ó $D$ là mi?n b? ch?n b?i $x=y^2$ và $x=1$.
+(b) $\iiint_V\left(x^2+y^2\right) d x d y d z$, trong ?ó $V$ là mi?n v?t th? b? ch?n b?i $z=x^2+y^2$ và $z=\sqrt{2-x^2-y^2}$."	
+MI1026-3-1	MI1026-3	medium	Câu 4 ( $1 ?$ ). Tính di?n tích c?a ph?n m?t ph?ng $2 x+y+z=1$ n?m trong m?t tr? $x^2+y^2=1$.	
+MI1026-4-1	MI1026-4	medium	"Câu 5 (1?). Tính $\int_C y d x-x d y$, trong ?ó $C$ bao g?m cung nh? c?a ???ng tròn $x^2+y^2=4$ t? $(2,0)$ ??n $(0,2)$ và ?o?n th?ng t? $(0,2)$ ??n $(4,3)$."	
+MI1026-5-1	MI1026-5	medium	Câu 6 (1?). Cho tr??ng vect? $\vec{F}=\left(2 x+e^x \sin y\right) \vec{i}+$ $\left(e^x \cos y+e^y z+3 y^2 z\right) \vec{j}+\left(e^y+y^3\right) \vec{k}$. Tính curl $\vec{F}$ và div $\vec{F}$.	
+MI1026-6-1	MI1026-6	hard	"Câu 7 (1?). Tìm kh?i l??ng c?a m?t cong $S$ xác ??nh b?i các ph??ng trình tham s? $x=u v, y=u+v, z=u-v$, trong ?ó $u^2+v^2 \leq 1$ và $u \geq 0$, v?i hàm m?t ?? $\rho(x, y, z)=y^2+z^2$."	
+MI1026-6-2	MI1026-6	hard	"Câu 8 (1?). Tính $\iint_S x^3 y d y d z-x^2 y^2 d z d x-x^2 y z d x d y$, trong ?ó $S$ là ph?n m?t nón $z=\sqrt{x^2+y^2}, 0 \leq z \leq 1$, v?i ??nh h??ng ra ngoài."	
+MI1026-1-3	MI1026-1	easy	"Câu 1 (1?). Tính th? tích c?a hình h?p xác ??nh b?i ba vect? $\vec{a}=$ $(1,2,3), \vec{b}=(2,1,2)$ và $\vec{c}=(2,1,4)$."	
+MI1026-1-4	MI1026-1	easy	"Câu 2 ( 2 ?). Tìm v?n t?c, gia t?c và t?c ?? t?i $t=0$ c?a m?t ch?t ?i?m chuy?n ??ng xác ??nh b?i hàm vect? $\dot{r}(t)=\left(e^{\cos t}, \arctan t, t\right)$."	
+MI1026-2-2	MI1026-2	easy	"Câu 3 (2?). Tính các tích phân sau.
+(a) $\iint_D y d x d y$, trong ?ó $D$ là mi?n b? ch?n b?i $y=x^2$ và $y=1$.
+(b) $\iiint_V\left(x^2+y^2\right) d x d y d z$, trong ?ó $V$ là mi?n v?t th? b? ch?n b?i $z=x^2+y^2$ và $z=\sqrt{6-x^2-y^2}$."	
+MI1026-3-2	MI1026-3	medium	Câu 4 ( 1 d ). Tính di?n tích c?a ph?n m?t ph?ng $x+2 y+z=2$ n?m trong m?t tr? $x^2+y^2=1$.	
+MI1026-4-2	MI1026-4	medium	"Câu 5 (1?). Tính $\int_C y d x-x d y$, trong ?ó $C$ bao g?m cung nh? c?a ???ng tròn $x^2+y^2=1$ t? $(1,0)$ ??n $(0,1)$ và ?o?n th?ng t? $(0,1)$ d?n $(4,3)$."	
+MI1026-5-2	MI1026-5	medium	Câu 6 (1?). Cho tr??ng vect? $\vec{F}=\left(2 x+e^x \sin y\right) \vec{i}+$ $\left(e^x \cos y+e^y z+3 y^2 z\right) \vec{j}+\left(e^y+y^3+1\right) \vec{k}$. Tính curl $\vec{F}$ và div $\vec{F}$.	
+MI1026-6-3	MI1026-6	hard	"Câu 7 (1?). Tìm kh?i l??ng c?a m?t cong $S$ xác ??nh b?i các ph??ng trình tham s? $x=u v, y=u+v, z=u-v$, trong ?ó $u^2+v^2 \leq 1$ và $v \geq 0$, v?i hàm m?t ?? $\rho(x, y, z)=y^2+z^2$."	
+MI1026-6-4	MI1026-6	hard	"Câu 8 (1?). Tính $\iint_S x^3 y d y d z-x^2 y^2 d z d x-x^2 y z d x d y$, trong ?ó $S$ là ph?n m?t nón $z=\sqrt{x^2+y^2}, 0 \leq z \leq 2$, v?i ??nh h??ng ra ngoài."	
+MI1026E-1-1	MI1026E-1	easy	"Question 1 (1pt). Find the volume of the parallelepiped determined by the vectors $\vec{a}=(1,2,3), \vec{b}=(1,1,2)$ and $\vec{c}=(2,1,4)$."	
+MI1026E-1-2	MI1026E-1	easy	"Question 2 (2pts). Let $\vec{r}(t)=\left(e^{\sin t}, \arctan t, t\right)$ be the position vector of a particle. Find its velocity vector, acceleration vector and speed at $t=0$."	
+MI1026E-2-1	MI1026E-2	easy	"Question 3 (2pts). Evaluate the following integrals.
+(a) $\iint_D x y d x d y$, where $D$ is bounded by $x=y^2$ and $x=1$.
+(b) $\iiint_V\left(x^2+y^2\right) d x d y d z$, where $V$ is a solid bounded by $z=x^2+y^2$ and $z=\sqrt{2-x^2-y^2}$."	
+MI1026E-3-1	MI1026E-3	medium	Question 4 (1pt). Find the area of the part of the plane $2 x+y+z=$ 1 that lies inside the cylinder $x^2+y^2=1$.	
+MI1026E-4-1	MI1026E-4	medium	"Question 5 (1pt). Evaluate $\int_C y d x-x d y$, where $C$ consists of the small arc of the circle $x^2+y^2=4$ from $(2,0)$ to $(0,2)$ and the segment from $(0,2)$ to $(4,3)$."	
+MI1026E-5-1	MI1026E-5	medium	Question 6 (1pt). Given a vector field $\vec{F}=\left(2 x+e^x \sin y\right) \vec{i}+$ $\left(e^x \cos y+e^y z+3 y^2 z\right) \vec{j}+\left(e^y+y^3\right) \vec{k}$. Calculate $\operatorname{curl} \vec{F}$ and $\operatorname{div} \vec{F}$.	
+MI1026E-6-1	MI1026E-6	hard	"Question 7 (1pt). Find the mass of the surface $S$ determined by the parametric equations $x=u v, y=u+v, z=u-v$, where $u^2+v^2 \leq 1$ and $u \geq 0$, with the density $\rho(x, y, z)=y^2+z^2$."	
+MI1026E-6-2	MI1026E-6	hard	"Question 8 (1pt). Evaluate $\iint_S x^3 y d y d z-x^2 y^2 d z d x-x^2 y z d x d y$, where $S$ is a part of the cone $z=\sqrt{x^2+y^2}, 0 \leq z \leq 1$ with outward orientation."	
+MI1026E-1-3	MI1026E-1	easy	"Question 1 (1pt). Find the volume of the parallelepiped determined by the vectors $\vec{a}=(1,2,3), \vec{b}=(2,1,2)$ and $\vec{c}=(2,1,4)$."	
+MI1026E-1-4	MI1026E-1	easy	"Question 2 (2pts). Let $\vec{r}(t)=\left(e^{\cos t}, \arctan t, t\right)$ be the position vector of a particle. Find its velocity vector, acceleration vector and speed at $t=0$."	
+MI1026E-2-2	MI1026E-2	easy	"Question 3 (2pts). Evaluate the following integrals.
+(a) $\iint_D y d x d y$, where $D$ is bounded by $y=x^2$ and $y=1$.
+(b) $\iiint_V\left(x^2+y^2\right) d x d y d z$, where $V$ is a solid bounded by $z=x^2+y^2$ và $z=\sqrt{6-x^2-y^2}$."	
+MI1026E-3-2	MI1026E-3	medium	Question 4 (1pt). Find the area of the part of the plane $x+2 y+z=$ 2 that lies inside the cylinder $x^2+y^2=1$.	
+MI1026E-4-2	MI1026E-4	medium	"Question 5 (1pt). Evaluate $\int_C y d x-x d y$, where $C$ consists of the small arc of the circle $x^2+y^2=1$ from $(1,0)$ to $(0,1)$ and the segment from $(0,1)$ to $(4,3)$."	
+MI1026E-5-2	MI1026E-5	medium	Question 6 (1pt). Given a vector field $\vec{F}=\left(2 x+e^x \sin y\right) \vec{i}+$ $\left(e^x \cos y+e^y z+3 y^2 z\right) \vec{j}+\left(e^y+y^3+1\right) \vec{k}$. Calculate curl $\vec{F}$ and $\operatorname{div} \vec{F}$.	
+MI1026E-6-3	MI1026E-6	hard	"Question 7 (1pt). Find the mass of the surface $S$ determined by the parametric equations $x=u v, y=u+v, z=u-v$, where $u^2+v^2 \leq 1$ and $v \geq 0$, with the density $\rho(x, y, z)=y^2+z^2$."	
+MI1026E-6-4	MI1026E-6	hard	"Question 8 (1pt). Evaluate $\iint_S x^3 y d y d z-x^2 y^2 d z d x-x^2 y z d x d y$, where $S$ is a part of the cone $z=\sqrt{x^2+y^2}, 0 \leq z \leq 2$ with outward orientation."	
+MI2026-1-1	MI2026-1	easy	"Bài 1: (1.5 ?i?m) Gi? s? các ""h?p ?en"" c?a máy bay ???c s?n xu?t b?i 3 công ty: AirCorp, BigSkies và CharterUS - v?i t? l? l?n l??t là $55 \%, 25 \%$ và $20 \%$. Bi?t r?ng t? l? h?p ?en b? l?i do AirCorp, BigSkies và CharterUS s?n xuât l?n l??t là $4 \%, 6 \%$ và $9 \%$. M?t h?p ?en ???c ch?n ng?u nhiên và bi?t r?ng nó ???c phát hi?n là b? l?i. H?y tính xác su?t nó do công ty AirCorp s?n xu?t."	
+MI2026-2-1	MI2026-2	easy	"Bài 2: (2.0 ?i?m) Cho ( $\mathrm{X}, \mathrm{Y}$ ) là véct? ng?u nhiên liên t?c v?i hàm m?t ?? xác su?t ??ng th?i cho b?i nh? sau:
+
+$$
+f(x, y)=\left\{\begin{array}{l}
+24 x y \text { n?u } x>0, y>0 \text { và } x+y<1, \\
+0 \text { n?u trái l?i. }
+\end{array}\right.
+$$
+
+
+Hãy tính h? s? t??ng quan gif?a X và Y . Hai bi?n X và Y có ??c l?p không?"	
+MI2026-3-1	MI2026-3	medium	"Bài 3: (2.0 ?i?m) Các công ty b?o hi?m th??ng quan tâm ??n t? l? ph?n tr?m ng??i lái xe luôn th?t dây an toàn tr??c khi lái xe. H? kh?o sát ng?u nhiên 400 tài x? và phát hi?n ra r?ng 320 ng??i kh?ng ??nh h? luôn th?t dây an toàn.
+a) H?y tìm ??c l??ng ?i?m c?a t? l? (p) các lái xe luôn th?t dây an toàn b?ng ph??ng pháp h?p lý c?c ??i.
+b) Tìm kho?ng ??c l??ng ??i x?ng cho t? l?p v?i ?? tin c?y $90 \%$."	
+MI2026-4-1	MI2026-4	medium	"Bài 4: (2.0 ?i?m) Hàm l??ng oxy hòa tan trong n??c sông ???c ?o ?? xác ??nh xem có ?? oxy trong n??c ?? h? tr? ??i s?ng th?y sinh hay không. M?t thanh tra môi tr??ng nghi ng? r?ng m?t c?ng ??ng ven sông ?ang th?i m?t l??ng n??c th?i ?ã qua x? lý vào sông. Ông ?ã l?y ng?u nhiên 10 m?u n??c sông ? v? trí phía trên th? tr?n và 10 m?u khác ? phía d??i th? tr?n. Ch? s? oxy hòa tan (tính b?ng ph?n tri?u) ???c ghi l?i nh? sau:
+
+Phía d??i: 5.0, 4.7, 4.9, 4.8, 4.9, 4.8, 4.7, 5.0, 4.8, 4.8
+Phía trên: 4.8, 5.2, 5.0, 4.9, 5.1, 5.1, 4.9, 4.9, 5.4, 5.0
+D? li?u có cung c?p ?? b?ng ch?ng ?? ch? ra r?ng hàm l??ng oxy trung bình bên ???i th? tr?n th?p h?n hàm l??ng oxy trung bình ? phía trên th? tr?n ? m?c ý ngh?a $5 \%$ hay không? Gi? s? h?m l??ng oxy c?a n??c sông bên d??i và bên trên th? tr?n c? phân ph?i chu?n v?i ph??ng sai b?ng nhau."	
+MI2026-5-1	MI2026-5	hard	"Bài 5: (2.5 ?i?m) M?t nghiên c?u v? m?i quan h? gi?a l??ng ???ng chuy?n hóa $(Y)$ trong m?t quy trình nh?t ??nh ? các m?c nhi?t ?? khác nhau ( $X$ ). D? li?u ???c mã hóa và ghi l?i nh? sau:
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline$X$ & 1.0 & 1.1 & 1.2 & 1.3 & 1.4 & 1.5 & 1.6 & 1.7 & 1.8 & 1.9 \\
+\hline$Y$ & 8.1 & 7.8 & 8.5 & 9.8 & 9.5 & 8.9 & 8.6 & 10.2 & 9.3 & 9.2 \\
+\hline
+\end{tabular}
+a) Tìm ph??ng trình ???ng h?i quy th?c nghi?m c?a Y theo X .
+b) H?y ki?m ??nh v? h? s? góc c?a ???ng h?i quy ?? xem có m?i quan h? tuy?n tính d??ng gi?a Y và X ? m?c ý ngh?a $5 \%$ hay không.
+
+$$
+\begin{aligned}
+& \text { Cho bi?t: } \Phi(1.28)=0.9 ; \Phi(1.645)=0.95 ; \Phi(1.96)=0.975 \text { v?i } \Phi(z)=\int_{-\infty}^z \frac{1}{\sqrt{2 \pi}} e^{-x^2 / 2} d x \text { và } \\
+& t_{18 ; 0.05}=1.734 ; t_{18 ; 0.025}=2.1 ; t_{8 ; 0.05}=1.86 ; t_{8 ; 0.025}=2.31
+\end{aligned}
+$$"	
+MI2026-1-2	MI2026-1	easy	"Bài 1: (1.5 ?i?m) Gi? s? các ""h?p ?en"" c?a máy bay ???c s?n xu?t b?i 3 công ty: AirCorp, BigSkies và CharterUS - v?i t? l? l?n l??t là $45 \%, 25 \%$ và $30 \%$. Bi?t r?ng t? l? h?p ?en b? l?i do AirCorp, BigSkies và CharterUS s?n xu?t l?n l??t là $4 \%, 6 \%$ và $8 \%$. M?t h?p ?en ???c ch?n ng?u nhiên và bi?t r?ng nó ???c phát hi?n là b? l?i. Hãy tính xác su?t nó do công ty BigSkies s?n xu?t."	
+MI2026-2-2	MI2026-2	easy	"Bài 2: (2.0 ?i?m) Cho ( $\mathrm{X}, \mathrm{Y}$ ) là véct? ng?u nhiên liên t?c v?i hàm m?t ?? xác su?t ??ng th?i cho b?i nhur sau:
+
+$$
+f(x, y)=\left\{\begin{array}{l}
+\frac{3}{2} x y \text { n?u } x>0, y>0 \text { và } x+y<2 \\
+0 \text { n?u trái l?i. }
+\end{array}\right.
+$$
+
+
+H?y tính h? s? t??ng quan gi?a X và Y . Hai bi?n X và Y có ??c l?p không?:"	
+MI2026-3-2	MI2026-3	medium	"Bài 3: (2.0 ?i?m) Các công ty b?o hi?m th??ng quan tâm ??n t? l? ph?n tr?m ng??i lái xe luôn th?t dây an to?n tr??c khi lái xe. H? kh?o sát ng?u nhiên 500 tài x? và phát hi?n ra r?ng 420 ng??i kh?ng ??nh h? luôn th?t dây an toàn.
+a) H?y tìm ??c l??ng ?i?m c?a t? l? (p) các lái xe luôn th?t dây an toàn b?ng ph??ng pháp h?p lý ç?c ?ai.
+b) Tìm kho?ng ??c l??ng ??i x?ng cho t? l? $p$ v?i ?? tin c?y $95 \%$."	
+MI2026-4-2	MI2026-4	medium	"Bài 4: (2.0 ?i?m) Hàm l??ng oxy hòa tan trong n??c sông ???c ?o ?? xác ??nh xem có ?? oxy trong n??c ?? h? tr? ??i s?ng th?y sinh hay không. M?t thanh tra môi tr??ng nghi ng? r?ng m?t c?ng ??ng ven sông ?ang th?i m?t l??ng n??c th?i ?ã qua x? lý vào sông. Ông ?ã l?y ng?u nhiên 10 m?u n??c sông ? v? trí phía trên th? tr?n và 10 m?u khác ? phía d??i th? tr?n. Ch? s? oxy hòa tan (tính b?ng ph?n tri?u) ???c ghi l?i nh? sau:
+
+Phía d??i: 5.1, 4.8, 5.0, 4.9, 5.0, 4.9, 4.8, 5.1, 4.9, 4.9
+Phía trên: 4.9, 5.3, 5.1, 5.0, 5.2, 5.2, 5.0, 5.0, 5.5, 5.1
+D? li?u có cung c?p ?? b?ng ch?ng ?? ch? ra r?ng hàm l??ng oxy trung bình bên ???i th? tr?n th?p h?n hàm l??ng oxy trung bình ? phía trên th? tr?n ? m?c ý ngh?a $5 \%$ hay không? Gi? s? hàm l??ng oxy c?a n??c sông bên d??i và bên trên th? tr?n có phân ph?i chu?n v?i ph??ng sai b?ng nhau."	
+MI2026-5-2	MI2026-5	hard	"Bài 5: (2.5 ?i?m) M?t nghiên c?u v? m?i quan h? gi?a l??ng ???ng chuy?n hóa $(Y)$ trong m?t quy trình nh?t ??nh ? các m?c nhi?t ?? khác nhau $(X)$. D? li?u ???c mã hóa và ghi l?i nh? sau:
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline$X$ & 1.1 & 1.2 & 1.3 & 1.4 & 1.5 & 1.6 & 1.7 & 1.8 & 1.9 & 2.0 \\
+\hline$Y$ & 8.0 & 7.7 & 8.4 & 9.7 & 9.4 & 8.8 & 8.5 & 10.1 & 9.2 & 9.1 \\
+\hline
+\end{tabular}
+a) Tìm ph??ng trình ???ng h?i quy th?c nghi?m c?a Y theo X .
+b) Hãy ki?m ??nh v? h? s? góc c?a ???ng h?i quy ?? xem có m?i quan h? tuy?n tính d??ng gi?a Y và $X$ ? m?c ý ngh?a $5 \%$ hay không.
+Cho biêt: $\Phi(1.28)=0.9 ; \Phi(1.645)=0.95 ; \Phi(1.96)=0.975$ v?i $\Phi(z)=\int_{-\infty}^z \frac{1}{\sqrt{2 \pi}} e^{-x^2 / 2} d x$ và $t_{18 ; 0.05}=1.734 ; t_{18 ; 0.025}=2.1 ; t_{8 ; 0.05}=1.86 ; t_{8 ; 0.025}=2.31$."	
+MI2036E-1-1	MI2036E-1	easy	"Question 1 (2.0 points) In a particular airport, $n$ radar stations operate independently of each other. The probability that a single radar station will detect an arriving airplane is 0.55 .
+(a) If six radar stations are in use ( $n=6$ ), calculate the probability that an arriving airplane will be detected by at most two radar stations.
+(b) What is the smallest number $n$ of radar stations that must be installed if the probability that an arriving airplane will be detected by at least one radar station is not less than 0.98 ."	
+MI2036E-2-1	MI2036E-2	medium	"Question 2 ( 2.0 points) A local fire station receives on average $\lambda$ rescue telephone calls per day. Assume that the number of these calls in a day has a Poisson distribution. The probability that the local fire station receives at least one rescue telephone call in a day is 0.713495 .
+(a) Find the parameter $\lambda$.
+(b) Find the probability that the local fire station will receive fewer than three rescue telephone calls over the next four days."	
+MI2036E-3-1	MI2036E-3	medium	"Question 3 ( 3.0 points) The joint probability density function of two continuous random variables $X$ and $Y$ is given by
+
+$$
+f_{X, Y}(x, y)= \begin{cases}k x y, & \text { if } 0<x<3,0<y<x \\ 0, & \text { otherwise }\end{cases}
+$$
+
+(a) Find the constant $k$.
+(b) Find $P(X<1, Y<2)$.
+(c) Find $\widehat{y}_M(x)$, the minimum mean square error estimate of $Y$ given $X=x, 0<x<3$."	
+MI2036E-4-1	MI2036E-4	hard	"Question 4 (3.0 points) The duration of a voice telephone call is an exponential random variable with expected value of 5 minutes. The duration of a data call is an exponential random variable with expected value of 8 minutes. The null hypothesis of a binary hypothesis test is $H_0$ ""a call is a voice call"". The alternative hypothesis is $H_1$ ""a call is a data call"". The probability of a voice call is $P\left(H_0\right)=0.8$ and the probability of a data call is $P\left(H_1\right)=0.2$. Assume that the cost of a false alarm is $C_{10}=5$ units and the cost of a miss is $C_{01}=8$ units. A binary hypothesis test measures $T$ minutes, the duration of a call. Based on the observation of $T$,
+(a) What are $f_{T \mid H_0}(t)$ and $f_{T \mid H_1}(t)$, the likelihood functions of $T$ given $H_0$ and $H_1$, respectively.
+(b) Design a minimum cost hypothesis test.
+(c) What is the average cost of the minimum cost policy?"	
+MI2036E-1-2	MI2036E-1	easy	"Question 1 (2.0 points) In a particular airport, $n$ radar stations operate independently of each other. The probability that a single radar station will detect an arriving airplane is 0.65 .
+(a) If six radar stations are in use $(n=6)$, calculate the probability that an arriving airplane will be detected by at most two radar stations.
+(b) What is the smallest number $n$ of radar stations that must be installed if the probability that an arriving airplane will be detected by at least one radar station is not less than 0.97 ."	
+MI2036E-2-2	MI2036E-2	medium	"Question 2 (2.0 points) A local fire station receives on average $\lambda$ rescue telephone calls per day. Assume that the number of these calls in a day has a Poisson distribution. The probability that the local fire station receives at least one rescue telephone call in a day is 0.527633 .
+(a) Find the parameter $\lambda$.
+(b) Find the probability that the local fire station will receive fewer than three rescue telephone calls over the next four days."	
+MI2036E-3-2	MI2036E-3	medium	"Question 3 ( $\mathbf{3 . 0}$ points) The joint probability density function of two continuous random variables $X$ and $Y$ is given by
+
+$$
+f_{X, Y}(x, y)= \begin{cases}k x y, & \text { if } 0<x<y, 0<y<3 \\ 0, & \text { otherwise }\end{cases}
+$$
+
+(a) Find the constant $k$.
+(b) Find $P(X<2, Y<1)$.
+(c) Find $\widehat{x}_M(y)$, the minimum mean square error estimate of $X$ given $Y=y, 0<y<3$."	
+MI2036E-4-2	MI2036E-4	hard	"Question 4 ( 3.0 points) The duration of a voice telephone call is an exponential random variable with expected value of 4 minutes. The duration of a data call is an exponential random variable with expected value of 7 minutes. The null hypothesis of a binary hypothesis test is $H_0$ ""a call is a voice call"". The alternative hypothesis is $H_1$ ""a call is a data call"". The probability of a voice call is $P\left(H_0\right)=0.8$ and the probability of a data call is $P\left(H_1\right)=0.2$. Assume that the cost of a false alarm is $C_{10}=4$ units and the cost of a miss is $C_{01}=7$ units. A binary hypothesis test measures $T$ minutes, the duration of a call. Based on the observation of $T$,
+(a) What are $f_{T \mid H_0}(t)$ and $f_{T \mid H_1}(t)$, the likelihood functions of $T$ given $H_0$ and $H_1$, respectively.
+(b) Design a minimum cost hypothesis test.
+(c) What is the average cost of the minimum cost policy?"	
+MI1046E-1-1	MI1046E-1	easy	"Q1. (1 mark) Test for the absolute convergence, conditional convergence, or divergence of the series
+
+$$
+\sum_{n=1}^{+\infty}(-1)^n \sin \frac{1}{\sqrt{2024 n-2023}}
+$$"	
+MI1046E-2-1	MI1046E-2	easy	"Q2. (2 marks) Given the series of functions $\sum_{n=0}^{+\infty} 3^n(2 n+1) x^n$,
+a) find the domain of convergence of the series, and
+b) calculate the sum of the series on its domain."	
+MI1046E-3-1	MI1046E-3	medium	"Q3. (2.5 marks) Solve the following differential equations:
+a) $y^{\prime \prime}-y^{\prime}-2 y=(4 x+1) e^{3 x}$.
+b) $\left\{\begin{array}{l}x^{\prime \prime}+5 x=f(t) \\ x(0)=0, x^{\prime}(0)=1\end{array}\right.$ where $f(t)= \begin{cases}4 \sin t, & 0<t<\pi \\ 0, & t \geqslant \pi .\end{cases}$"	
+MI1046E-4-1	MI1046E-4	medium	Q4. (1.5 marks) Find the inverse Laplace transform of the fuction $F(s)=\frac{s^2+2 s+1}{\left(s^2+2 s-3\right)\left(s^2+2 s+5\right)}$.	
+MI1046E-5-1	MI1046E-5	hard	"Q5. (1.5 marks) Given the function $f(x)=x+1, x \in[0, \pi]$, expand the function to a Fourier sine series."	
+MI1046E-6-1	MI1046E-6	hard	"Q6. (1.5 marks) A mass of 100 g stretches a spring 10 cm . The mass is pulled down 3 cm from its equilibrium position and then set in motion with an upward velocity of $10 \mathrm{~cm} / \mathrm{sec}$ in an undamping environment.
+a, Formulate the initial value problem that models the motion of the mass over the time $t$.
+$b$, Find the solution of the problem."	
+MI1046E-1-2	MI1046E-1	easy	"Q1. (1 mark) Test for the absolute convergence, conditional convergence, or divergence of the series
+
+$$
+\sum_{n=1}^{+\infty}(-1)^n \sin \frac{1}{\sqrt[3]{10 n-1}}
+$$"	
+MI1046E-2-2	MI1046E-2	easy	"Q2. (2 marks) Given the series of functions $\sum_{n=0}^{+\infty} 4^n(2 n-1) x^n$,
+a) find the domain of convergence of the series, and
+b) calculate the sum of the series on its domain"	
+MI1046E-3-2	MI1046E-3	medium	"Q3. (2.5 marks) Solve the following differential equations:
+a) $y^{\prime \prime}+y^{\prime}-2 y=(8 x+6) e^{2 x}$.
+b) $\left\{\begin{array}{l}x^{\prime \prime}+10 x=f(t) \\ x(0)=0, x^{\prime}(0)=1\end{array}\right.$ where $f(t)= \begin{cases}9 \sin t, & 0<t<\pi \\ 0, & t \geqslant \pi .\end{cases}$"	
+MI1046E-4-2	MI1046E-4	medium	"Q4. (1.5 marks) Find the inverse Laplace transform of the fuction
+
+$$
+F(s)=\frac{s^2-2 s+1}{\left(s^2-2 s-2\right)\left(s^2-2 s+4\right)}
+$$"	
+MI1046E-5-2	MI1046E-5	hard	"Q5. (1.5 marks) Given the function $f(x)=x-1, x \in[0, \pi]$, expand the function to a Fourier sine series."	
+MI1046E-6-2	MI1046E-6	hard	"Q6. (1.5 marks) A mass of 100 g stretches a spring 40 cm . The mass is pushed up 3 cm from its equilibrium position and then set in motion with an downward velocity of $10 \mathrm{~cm} / \mathrm{sec}$ in an undamping environment.
+a, Formulate the initial value problem that models the motion of the mass over the time $t$.
+$b$, Find the solution of the problem."	
+MI1111-1-1	MI1111-1	easy	Câu 1 (1?). Tìm t?p xác ??nh c?a hàm s? $y=\arcsin \sqrt{x-1}$.	
+MI1111-1-2	MI1111-1	easy	Câu 2 (1?). Tính gi?i h?n $\lim _{x \rightarrow 0} \frac{\ln \left(1+x+x^2\right)}{\sinh (2 x)}$.	
+MI1111-2-1	MI1111-2	medium	"Câu 3 (1d). Tìm và phân lo?i ?i?m gián do?n c?a hàm s?
+
+$$
+y=\frac{1}{3^{1 / x}-1}
+$$"	
+MI1111-2-2	MI1111-2	hard	"Câu 4 (1d). Tìm c?c tr? c?a hàm s?
+
+$$
+z(x, y)=x^2+2 y^2+x y+3 x+5 y
+$$"	
+MI1111-3-1	MI1111-3	easy	Câu 5 (1d). Tìm khai tri?n Maclaurin c?a hàm s? sau ??n $x^4$ : $f(x)=\sin \left(x+x^2\right)$.	
+MI1111-3-2	MI1111-3	medium	Câu 6 (1d). Tính di?n tích ph?n hình ph?ng cho b?i ?i?u ki?n: $y \geq x$ và $x^2+y^2 \leq 2 x$.	
+MI1111-4-1	MI1111-4	medium	Câu 7 (1d). Tính tích phân suy r?ng $\int_0^{+\infty} \frac{1}{\left(4+x^2\right)^{3 / 2}} d x$.	
+MI1111-4-2	MI1111-4	easy	Câu 8 (1?). Cho hàm s? $y=y(x)$ xác ??nh b?i ph??ng trình $x e^x+y^3+y x^2+2+y=0$. Tính $y^{\prime}(0)$.	
+MI1111-5-1	MI1111-5	hard	Câu 9 (1?). Tính gi?i h?n $\lim _{n \rightarrow+\infty} \int_0^{\pi / 2} \sin \left(x^n\right) d x$.	
+MI1111-6-1	MI1111-6	hard	"Câu 10 ( 1 d ). Li?u có t?n t?i hàm s? $f(x)$ liên t?c trên $\mathbb{R}$ th?a mãn h? th?c
+
+$$
+f(x+1) f(x)+f(x+1)+1=0 \quad \forall x \in \mathbb{R} ?
+$$"	
+MI1111-1-3	MI1111-1	easy	Câu 1 (1?). Tìm t?p xác ??nh c?a hàm s? $y=\arcsin \sqrt{x+1}$.	
+MI1111-1-4	MI1111-1	easy	Câu 2 (1?). Tính gi?i h?n $\lim _{x \rightarrow 0} \frac{\ln \left(1+x-x^2\right)}{\arctan (2 x)}$.	
+MI1111-2-3	MI1111-2	medium	"Câu 3 (1?). Tìm và phân lo?i ?i?m gián ?o?n c?a hàm s?
+
+$$
+y=\frac{1}{2^{1 / x}-1}
+$$"	
+MI1111-2-4	MI1111-2	hard	"Câu 4 (1d). Tìm c?c tr? c?a hàm s?
+
+$$
+z(x, y)=2 x^2+y^2+x y+5 x+3 y
+$$"	
+MI1111-3-3	MI1111-3	easy	Câu 5 (1?). Tìm khai tri?n Maclaurin c?a hàm s? sau ??n $x^4$ : $f(x)=\sin \left(x-x^2\right)$.	
+MI1111-3-4	MI1111-3	medium	Câu 6 (1?). Tính di?n tích ph?n hình ph?ng cho b?i ?i?u ki?n: $y \leq x$ và $x^2+y^2 \leq 2 y$.	
+MI1111-4-3	MI1111-4	medium	Câu 7 (1d). Tính tích phân suy r?ng $\int_0^{+\infty} \frac{1}{\left(9+x^2\right)^{3 / 2}} d x$.	
+MI1111-4-4	MI1111-4	easy	Câu 8 (1?). Cho hàm s? $y=y(x)$ xác ??nh b?i ph??ng trình $x e^x+y^3+y x^2-2+y=0$. Tính $y^{\prime}(0)$.	
+MI1111-5-2	MI1111-5	hard	Câu 9 (1?). Tính gi?i h?n $\lim _{n \rightarrow+\infty} \int_0^{\pi / 2} \sin \left(x^n\right) d x$.	
+MI1111-6-2	MI1111-6	hard	"Câu 10 ( 1 ?). Li?u có t?n t?i hàm s? $f(x)$ liên t?c trên $\mathbb{R}$ th?a mãn h? th?c
+
+$$
+f(x+1) f(x)+f(x+1)+1=0 \quad \forall x \in \mathbb{R} ?
+$$"	
+MI1120Q-1-1	MI1120Q-1	easy	"Câu 1 (1d). Tính ?? cong c?a ???ng cong $y=x^3, x \in \mathbb{R}$ t?i ?i?m $M(-1 ;-1)$."	
+MI1120Q-1-2	MI1120Q-1	easy	"Câu 2 ( 2 ?). Tính các tích phân b?i:
+a) $\iint_{[0 ; 1] \times[0 ; 1]}\left(x^2+x y+y^2\right) d x d y$.
+b) $\iiint_E\left(x^2+y^2+z^2\right) d x d y d z$, ? ?ó $E$ là ph?n kh?i c?u ??c $x^2+y^2+z^2 \leq 4$ trong góc ph?n tám th? nh?t $(x, y, z \geq 0)$."	
+MI1120Q-2-1	MI1120Q-2	medium	Câu 3 (1d). Tính tích phân Euler $\int_0^{+\infty} \frac{x^4}{\left(1+x^3\right)^2} d x$.	
+MI1120Q-3-1	MI1120Q-3	medium	"Câu 4 ( 2 d). Tính các tích phân ???ng:
+a) $\int_L x^2 y d s$, ? ?ó $L$ là ?o?n th?ng ?i t? $(-1 ; 5)$ ??n $(1 ; 6)$.
+b) $\int_C\left(e^x+x^2 y\right) d x+\left(e^y-x y^2\right) d y$, ? ?ó $C$ là ???ng tròn $x^2+y^2=25$ và ??nh h??ng ng??c chi?u kim ??ng h?."	
+MI1120Q-4-1	MI1120Q-4	easy	"Câu 5 ( 2 d). Tính các tích phân m?t:
+a) $\iint_S x y d S$, ? ?ó $S$ là mi?n tam giác v?i các ??nh $(3 ; 0 ; 0),(0 ; 2 ; 0)$ và $(0 ; 0 ; 1)$.
+b) $\iint_S x z d y d z+x d z d x+y d x d y$, ? ?ó $S$ là m?t n?a m?t c?u $x^2+y^2+z^2=25, y \geq 0$ và ???c ??nh h??ng theo h??ng d??ng c?a tr?c $O y$."	
+MI1120Q-5-1	MI1120Q-5	hard	"Câu 6 (1?). Cho hàm s? ba bi?n s? $u(x, y, z)=x^2 y^3 z^4,(x, y, z) \in \mathbb{R}^3$ và vect? $\vec{l}=(4 ; 3 ; 2)$. Tính ??o hàm theo h??ng $\frac{\partial u}{\partial \vec{l}}(1 ; 1 ; 1)$."	
+MI1120Q-6-1	MI1120Q-6	hard	"Câu 7 (1?). S? d?ng công th?c Stokes ?? tính tích phân ???ng trong không gian $\int_C\left(x+y^2\right) d x+\left(y+z^2\right) d y+\left(z+x^2\right) d z$, ? ?ó $C$ là tam giác v?i các ?inh $(1 ; 0 ; 0),(0 ; 1 ; 0)$ và $(0 ; 0 ; 1)$ và ???c ??nh h??ng ng??c chi?u kim ??ng h? nhìn t? chi?u d??ng c?a tr?c Oz ."	
+MI1120Q-1-3	MI1120Q-1	easy	"Câu 1 (1?). Tính ?? cong c?a ???ng cong $y=x^4, x \in \mathbb{R}$ t?i ?i?m $M(-1 ; 1)$."	
+MI1120Q-1-4	MI1120Q-1	easy	"Câu 2 (2d). Tính các tích phân b?i:
+a) $\iiint_{[0 ; 1] \times[0 ; 1]}\left(x^2-x y+y^2\right) d x d y$.
+b) $\iiint_E\left(x^2+y^2+z^2\right) d x d y d z$, ? ?ó $E$ là ph?n kh?i c?u ??c $x^2+y^2+z^2 \leq 9$ trong góc ph?n tám th? nh?t $(x, y, z \geq 0)$."	
+MI1120Q-2-2	MI1120Q-2	medium	Câu 3 (1d). Tính tích phân Euler $\int_0^{+\infty} \frac{x^5}{\left(1+x^4\right)^2} d x$.	
+MI1120Q-3-2	MI1120Q-3	medium	"Câu 4 (2?). Tính các tích phân ???ng:
+a) $\int_L x y^2 d s$, ? ?ó $L$ là ?o?n th?ng ?i t? $(1 ; 6)$ ??n $(-1 ; 5)$.
+b) $\int_C\left(e^x-x^2 y\right) d x+\left(e^y+x y^2\right) d y$, ? ?ó $C$ là ???ng tròn $x^2+y^2=25$ và ???c ??nh h??ng thu?n chi?u kim ??ng h?."	
+MI1120Q-4-2	MI1120Q-4	easy	"Câu 5 ( 2 ?). Tính các tích phân m?t:
+a) $\iint_S x y d S$, ? ?ó $S$ là mi?n tam giác v?i các ??nh $(1 ; 0 ; 0),(0 ; 2 ; 0)$ và $(0 ; 0 ; 3)$.
+b) $\iint_S x d y d z+y d z d x+z^4 d x d y$, ? ?ó $S$ là ph?n c?a m?t nón $z=\sqrt{x^2+y^2}, z \leq 1$ và ???c ??nh h??ng theo chi?u âm cùa tr?c Oz."	
+MI1120Q-5-2	MI1120Q-5	hard	"Câu 6 (1d). Cho hàm s? ba bi?n s? $u(x, y, z)=x^4 y^3 z^2,(x, y, z) \in \mathbb{R}^3$ và vect? $\vec{l}=(2 ; 3 ; 4)$. Tính ??o hàm theo h??ng $\frac{\partial u}{\partial \vec{l}}(1 ; 1 ; 1)$."	
+MI1120Q-6-2	MI1120Q-6	hard	"Câu 7 (1d). S? d?ng công th?c Stokes ?? tính tích phân ???ng trong không gian $\int_C\left(x+y^2\right) d x+\left(y+z^2\right) d y+\left(z+x^2\right) d z$, ? ?ó $C$ là tam giác v?i các ??hh $(1 ; 0 ; 0),(0 ; 1 ; 0)$ và $(0 ; 0 ; 1)$ và ???c ??nh h??ng ng??c chi?u kim ??ng h? nhìn t? chi?u d??ng c?a tr?c $O z$."	
+MI1121-1-1	MI1121-1	easy	Câu 1 (1?). Vi?t ph??ng trình ti?p di?n và pháp tuy?n c?a m?t cong $(S) x^2+y^3-2 z=1$ t?i ?i?m $M(2 ; 1 ; 2)$.	
+MI1121-1-2	MI1121-1	easy	"Câu 2 (1d). Tính ??o hàm theo h??ng $\vec{\ell}$ c?a hàm s? $u(x, y, z)=$ $\ln \left(x^2+y^2+y z\right)$ t?i ?i?m $A(1 ; 1 ; 1)$ v?i $\vec{\ell}=\overrightarrow{A B}$ và $B(-1 ; 2 ; 3)$."	
+MI1121-2-1	MI1121-2	medium	"Câu 3 (1?). Tính $I=\int_C y d x+2 x d y$, v?i $C: x=t^3, y=(t-1)^2$ ?i t? ?i?m $A(1 ; 0)$ ??n ?i?m $B(0 ; 1)$."	
+MI1121-2-2	MI1121-2	hard	Câu 4 (1d). Tính tích phân $I=\int_0^1 d x \int_{x^2}^1|x-y| d y$.	
+MI1121-3-1	MI1121-3	easy	Câu 5 (1?). Tính th? tích ph?n hình c?u $\Omega: x^2+y^2+z^2 \leq 4$ n?m trong m?t nón $z=\sqrt{3\left(x^2+y^2\right)}$.	
+MI1121-3-2	MI1121-3	medium	Câu 6 (1d). Tính tích phân $I=\int_0^1 x^7 \cdot \sqrt[3]{1-x^3} d x$.	
+MI1121-4-1	MI1121-4	medium	"Câu 7 (1d). Bi?u th?c $\left(a e^y+2 x y^3\right) d x+\left(x e^y+b x^2 y^2+1\right) d y$, v?i các s? th?c $a, b$, là vi phân toàn ph?n c?a hàm s? $u(x, y)$. Tìm $a, b$ và hàm s? $u(x, y)$ ?ó."	
+MI1121-4-2	MI1121-4	easy	"Câu 8 (1d). Tính tích phân $I=\iiint_{\Omega} \frac{1}{1+z^7} d x d y d z \quad$ v?i $\Omega=\left\{(x, y, z) \in \mathbb{R}^3: 0 \leq x \leq 1,0 \leq y \leq x, \sqrt[3]{x} \leq z \leq 1\right\}$."	
+MI1121-5-1	MI1121-5	hard	"Câu 9 (1d). Cho $C$ là n?a ???ng tròn $x^2+y^2=2 x(x \geq 1)$ ?i t? $A(1 ;-1)$ d?n $B(1 ; 1)$. Tính
+
+$$
+I=\int_C\left(x e^{\sin x}-y^2\right) d x+\left(y \ln \left(y^2+1\right)+x^2+x\right) d y
+$$"	
+MI1121-6-1	MI1121-6	hard	"Câu 10 (1d). Cho $(S)$ là biên c?a mi?n $\Omega: 1 \leq z \leq 4-x^2-y^2$, h??ng ra ngoài. Tính thông l??ng c?a tr??ng vect? $\vec{F}=x^3 \vec{i}+y^2 z \vec{j}+x y z \vec{k}$ qua m?t $(S)$."	
+MI1121-1-3	MI1121-1	easy	Câu 1 (1d). Vi?t ph??ng trình ti?p di?n và pháp tuy?n c?a m?t cong $(S) 2 x-y^2+z^3=1$ t?i ?i?m $N(2 ; 2 ; 1)$.	
+MI1121-1-4	MI1121-1	easy	"Câu 2 (1d). Tính ??o hàm theo h??ng $\vec{\ell}$ c?a hàm s? $u(x, y, z)=$ $\ln \left(x y+y^2+z^2\right)$ t?i ?i?m $A(-1 ; 1 ; 1)$ v?i $\vec{\ell}=\overrightarrow{A B}$ và $B(1 ; 2 ; 3)$."	
+MI1121-2-3	MI1121-2	medium	"Câu 3 (1?). Tính $I=\int_C 2 y d x+x d y$, v?i $C: x=t^3, y=(t+1)^2$ ?i t? ?i?m $A(1 ; 4)$ ??n ?i?m $B(0 ; 1)$."	
+MI1121-2-4	MI1121-2	hard	Câu 4 (1d). Tính tích phân $I=\int_0^1 d y \int_{y^2}^1|x-y| d x$.	
+MI1121-3-3	MI1121-3	easy	Câu 5 (1?). Tính th? tích ph?n hình c?u $\Omega: x^2+y^2+z^2 \leq 4$ n?m trong m?t nón $z=\sqrt{\frac{x^2+y^2}{3}}$.	
+MI1121-3-4	MI1121-3	medium	Câu 6 (1d). Tính tích phân $I=\int_0^1 x^6 \cdot \sqrt[4]{1-x^4} d x$.	
+MI1121-4-3	MI1121-4	medium	"Câu 7 (1d). Bi?u th?c $\left(y e^x+a x^2 y^2+1\right) d x+\left(b e^x+2 x^3 y\right) d y$, v?i các s? th?c $a, b$, là vi phân toàn ph?n c?a hàm s? $u(x, y)$. Tìm $a, b$ và hàm s? $u(x, y)$ ?ó."	
+MI1121-4-4	MI1121-4	easy	"Câu 8 (1d). Tính tích phân $I=\iiint_{\Omega} \frac{1}{1+z^5} d x d y d z \quad$ v?i $\Omega=\left\{(x, y, z) \in \mathbb{R}^3: 0 \leq x \leq 1,0 \leq y \leq x, \sqrt{x} \leq z \leq 1\right\}$."	
+MI1121-5-2	MI1121-5	hard	"Câu 9 (1d). Cho $C$ là n?a trên ???ng tròn $x^2+y^2=2 y$ ?i t? $A(1 ; 1)$ ??n $B(-1 ; 1)$. Tính
+
+$$
+I=\int_C\left(x \ln \left(x^2+1\right)+y^2+y\right) d x+\left(y e^{\sin y}+x^2\right) d y
+$$"	
+MI1121-6-2	MI1121-6	hard	"Câu 10 (1d). Cho $(S)$ là biên c?a mi?n $\Omega: 3 \leq z \leq 4-x^2-y^2$, h??ng ra ngoài. Tính thông l??ng c?a tr??ng vect? $\vec{F}=x^3 \vec{i}+y^2 z \vec{j}+x y z \vec{k}$ qua m?t $(S)$."	
+MI1122-1-1	MI1122-1	easy	"Câu 1 (1?). Tìm c?c tr? c?a hàm s?
+
+$$
+z=x^4+y^4+8 x^2+2 y^2+1
+$$"	
+MI1122-1-2	MI1122-1	easy	"Câu 2 (1?). Tính ?? cong c?a ???ng cong $y=x^3+x+1$ t?i ?i?m $A(1,3)$."	
+MI1122-2-1	MI1122-2	medium	"Câu 3 (1?). Vi?t ph??ng trình ti?p tuy?n và pháp di?n c?a ???ng cong $x=2 \cos t, y=\sin t, z=2 \sin t+2$ tai ?i?m ?ng v?i $t=\pi$."	
+MI1122-2-2	MI1122-2	hard	"Câu 4 (1?). ??i th? t? l?y tích phân $\int_{-2}^2 d y \int_{y^2-5}^{-1} f(x, y) d x$."	
+MI1122-3-1	MI1122-3	easy	"Câu 5 (1d). Tính $\int_C x^2 d s$, v?i $C$ là ???ng cong
+
+$$
+x=e^t, y=3 t-3(0 \leq t \leq 1)
+$$"	
+MI1122-3-2	MI1122-3	medium	"Câu 6 (1?). Tính ??o hàm c?a hàm $u=e^{x^2+y}+y^2+2 x z^3+1$ t?i ?i?m $A(1,-1,1)$ theo h??ng $\overrightarrow{A B}$ v?i $B(2,1,3)$."	
+MI1122-4-1	MI1122-4	medium	Câu 7 (1d). Tr??ng véc t? $\vec{F}=(y z+1) \vec{i}+x z \vec{j}+x y \vec{k}$ có ph?i là tr??ng th? không? Tìm hàm th? v? n?u có.	
+MI1122-4-2	MI1122-4	easy	"Câu 8 (1d). Ph??ng trình $x^3+4 x y^2+2 y z+z^3=2$ xác ??nh hàm ?n $z=z(x, y)$. Tính $\frac{\partial z}{\partial x}(1,0), \frac{\partial z}{\partial y}(1,0)$."	
+MI1122-5-1	MI1122-5	hard	Câu 9 (1?). Cho $\Omega$ gi?i h?n b?i các m?t $z^2=5+x^2+y^2$ và $z=3$. Tính th? tích kh?i $\Omega$.	
+MI1122-6-1	MI1122-6	hard	"Câu 10 (1?). Tính $\int_C y d x-x d y$, v?i $C$ là là biên c?a mi?n xác ??nh b?i $1 \leq x y \leq 4, x \leq y \leq 4 x$, có h??ng ng??c chi?u quay c?a kim ??ng h?."	
+MI1122-1-3	MI1122-1	easy	"Câu 1 (1?). Tìm c?c tr? c?a hàm s?
+
+$$
+z=x^4+y^4+2 x^2+8 y^2+2
+$$"	
+MI1122-1-4	MI1122-1	easy	"Câu 2 (1?). Tính ?? cong c?a ???ng cong $y=x^3-x+1$ t?i ?i?m $A(1,1)$."	
+MI1122-2-3	MI1122-2	medium	"Câu 3 (1?). Vi?t ph??ng trình ti?p tuy?n và pháp di?n c?a ???ng cong $x=2 \sin t, y=\cos t, z=\sin t-2$ t?i ?i?m ?ng v?i $t=\pi$."	
+MI1122-2-4	MI1122-2	hard	"Câu 4 (1?). ??i th? t? l?y tích phân $\int_{-2}^2 d y \int_{-5}^{-y^2-1} f(x, y) d x$."	
+MI1122-3-3	MI1122-3	easy	"Câu 5 (1d). Tính $\int_C y^2 d s$, v?i $C$ là ???ng cong
+
+$$
+x=2 t+3, y=e^t(0 \leq t \leq 1)
+$$"	
+MI1122-3-4	MI1122-3	medium	"Câu 6 (1?). Tính ??o hàm c?a hàm $u=e^{x^2-y}+y^3+3 x z^2+3$ t?i ?i?m $A(-1,1,1)$ theo h??ng $\overrightarrow{A B}$ v?i $B(1,3,2)$."	
+MI1122-4-3	MI1122-4	medium	Câu 7 (1d). Tr??ng véc t? $\vec{F}=y z \vec{i}+(x z+2) \vec{j}+x y \vec{k}$ có ph?i là tr??ng th? không? Tìm hàm th? v? n?u có.	
+MI1122-4-4	MI1122-4	easy	"Câu 8 (1?). Ph??ng trình $2 x^2 y+2 y^2+x^2 z+z^3=3$ xác ??nh hàm ?n $z=z(x, y)$. Tính $\frac{\partial z}{\partial x}(0,1), \frac{\partial z}{\partial y}(0,1)$."	
+MI1122-5-2	MI1122-5	hard	Câu 9 (1?). Cho $\Omega$ gi?i h?n b?i các m?t $z^2=3+x^2+y^2$ và $z=2$. Tính th? tích kh?i $\Omega$.	
+MI1122-6-2	MI1122-6	hard	"Câu 10 (1?). Tính $\int_C y d x-2 x d y$, v?i $C$ là biên c?a mi?n xác ??nh b?i $1 \leq x y \leq 3, x \leq y \leq 3 x$, có h??ng ng??c chi?u quay c?a kim ??ng h?."	
+MI1124-1-1	MI1124-1	easy	Câu 1 (1?). Vi?t ph??ng trình pháp tuy?n và ti?p di?n c?a m?t cong $x^2-2 y-3 z^2=-2$ tai $A(2 ;-3 ;-2)$.	
+MI1124-1-2	MI1124-1	easy	"Câu 2 (1?). Tính tích phân $\iint_D\left(2 x^2-3 y^2\right) d x d y$ v?i $D$ là mi?n ph?ng gi?i h?n b?i các ???ng $x=0, y=0, x+y=1$."	
+MI1124-2-1	MI1124-2	medium	Câu 3 (1?). Tính th? tích v?t th? $V$ xác ??nh b?i: $1 \leq x \leq 2$; $z \leq y^2 \leq 2 z ; y \leq z^2 \leq 2 y$.	
+MI1124-2-2	MI1124-2	hard	Câu 4 (1d). Tính $\int_0^2 \frac{x^3 d x}{\sqrt[3]{8-x^3}}$.	
+MI1124-3-1	MI1124-3	easy	"Câu 5 (1d). Tính $\int_C(3 x-2 y) d s, C$ là ???ng tròn có ph??ng trình: $x^2+y^2=8 x-6 y$."	
+MI1124-3-2	MI1124-3	medium	Câu 6 (1d). Tính di?n tích c?a ph?n m?t paraboloid $z=2-x^2-y^2$ n?m trong hình tr? $x^2+y^2 \leq 1$.	
+MI1124-4-1	MI1124-4	medium	"Câu 7 (1d). Tính thông l??ng c?a tr??ng véct? $\vec{F}=\left(3 x z^2+3 x^2\right) \vec{i}+\left(y^3+2 x y\right) \vec{j}+\left(x+3 z x^2\right) \vec{k}$ qua m?t c?u $x^2+y^2+z^2=1$, h??ng ra ngoài."	
+MI1124-4-2	MI1124-4	easy	"Câu 8 (1?). Cho hàm $u=x^3+2 y z+z^2$ và các ?i?m $A(1 ;-1 ; 1), B(2 ; 1 ;-1)$. Tìm ??o hàm c?a hàm $u$ t?i $A$ theo h??ng $\overrightarrow{A B}$."	
+MI1124-5-1	MI1124-5	hard	"Câu 9 (1d). Tính $\oint_C e^{-x} \arcsin x y d x+\left(x+e^y \arccos x y\right) d y$, v?i $C$ là ???ng có ph??ng trình $|x|+|y|=1$."	
+MI1124-6-1	MI1124-6	hard	Câu 10 (1?). Ch?ng minh r?ng hàm s? $f(x)=\int_0^2 \frac{x\left(t^2+1\right)}{x^2+t^2} d t$ không liên t?c t?i $x=0$.	
+MI1124-1-3	MI1124-1	easy	Câu 1 (1?). Vi?t ph??ng trình pháp tuy?n và ti?p di?n c?a m?t cong $x^2+2 y^2-3 z^2=14$ tai $A(3 ;-2 ; 1)$.	
+MI1124-1-4	MI1124-1	easy	"Câu 2 (1?). Tính tích phân $\iint_D\left(x^2-3 y^2\right) d x d y$ v?i $D$ là mi?n ph?ng gi?i h?n b?i các ???ng $x=0, y=0, x-y=1$."	
+MI1124-2-3	MI1124-2	medium	Câu 3 (1?). Tính th? tích v?t th? $V$ xác ??nh b?i: $1 \leq y \leq 3$; $z \leq x^2 \leq 3 z ; x \leq z^2 \leq 3 x$.	
+MI1124-2-4	MI1124-2	hard	Câu 4 (1d). Tính $\int_0^3 \frac{x^3 d x}{\sqrt[3]{27-x^3}}$.	
+MI1124-3-3	MI1124-3	easy	"Câu 5 (1?). Tính $\int_C(3 y-2 x) d s, C$ là ???ng tròn có ph??ng trình: $x^2+y^2=6 x-8 y$."	
+MI1124-3-4	MI1124-3	medium	Câu 6 (1?). Tính di?n tích c?a ph?n m?t paraboloid $y=4-x^2-z^2$ n?m trong hình tr? $x^2+z^2 \leq 1$.	
+MI1124-4-3	MI1124-4	medium	"Câu 7 (1d). Tính thông l??ng c?a tr??ng véct? $\vec{F}=\left(3 x y^2+3 x^2\right) \vec{i}+\left(3 y z^2+2 x y\right) \vec{j}+\left(y+3 z x^2\right) \vec{k}$ qua m?t c?u: $x^2+y^2+z^2=1$, h??ng ra ngoài."	
+MI1124-4-4	MI1124-4	easy	"Câu 8 (1d). Cho hàm $u=x^3+2 y z+z^2$ và các ?i?m $A(1 ;-1 ; 1), B(2 ; 1 ;-1)$. Tìm ??o hàm c?a hàm $u$ t?i $B$ theo h??ng $\overrightarrow{B A}$."	
+MI1124-5-2	MI1124-5	hard	"Câu 9 (1d). Tính $\oint_C\left(y+e^{-x} \arcsin x y\right) d x+\left(e^y \arccos x y\right) d y$, v?i $C$ là ???ng có ph??ng trình $|x|+|y|=1$."	
+MI1124-6-2	MI1124-6	hard	Câu 10 (1d). Ch?ng minh r?ng hàm s? $f(x)=\int_0^3 \frac{x\left(3 t^2+1\right)}{x^2+t^2} d t$ không liên t?c t?i $x=0$.	
+MI1124E-1-1	MI1124E-1	easy	Question 1 ( 1 pt ). Find the tangent plane and normal line to $x^2-2 y-3 z^2=-2$ at the point $A(2 ;-3 ;-2)$.	
+MI1124E-1-2	MI1124E-1	easy	"Question 2 (1pt). Calculate the integral $\iint_D\left(2 x^2-3 y^2\right) d x d y$ where $D$ is the region bounded by the lines $x=0, y=0$ and $x+y=1$."	
+MI1124E-2-1	MI1124E-2	medium	Question 3 ( 1 pt ). Calculate the volume of the solid $V$ defined by: $1 \leq x \leq 2 ; z \leq y^2 \leq 2 z ; y \leq z^2 \leq 2 y$.	
+MI1124E-2-2	MI1124E-2	hard	Question 4 (1pt). Calculate $\int_0^2 \frac{x^3 d x}{\sqrt[3]{8-x^3}}$.	
+MI1124E-3-1	MI1124E-3	easy	"Question 5 (1pt). Calculate $\int_C(3 x-2 y) d s, C$ is the circle with the equation: $x^2+y^2=8 x-6 y$."	
+MI1124E-3-2	MI1124E-3	medium	Question $6(1 \mathrm{pt})$. Calculate the area of the part of the paraboloid $z=2-x^2-y^2$ that lies within the cylinder $x^2+y^2 \leq 1$.	
+MI1124E-4-1	MI1124E-4	medium	"Question 7 ( 1 pt ). Calculate the flux of the vector field $\vec{F}=\left(3 x z^2+3 x^2\right) \vec{i}+\left(y^3+2 x y\right) \vec{j}+\left(x+3 z x^2\right) \vec{k}$ through the sphere $x^2+y^2+z^2=1$, outward orientation."	
+MI1124E-4-2	MI1124E-4	easy	"Question 8 (1pt). Given the function $u=x^3+2 y z+z^2$ and the points $A(1 ;-1 ; 1), B(2 ; 1 ;-1)$. Find the derivative of the function $u$ at $A$ in the direction of $\overrightarrow{A B}$."	
+MI1124E-5-1	MI1124E-5	hard	"Question 9 (1pt). Calculate
+
+$$
+\oint_C e^{-x} \arcsin x y d x+\left(x+e^y \arccos x y\right) d y
+$$
+
+where $C$ is the curve with the equation $|x|+|y|=1$."	
+MI1124E-6-1	MI1124E-6	hard	Question $10(1 \mathrm{pt})$. Prove that the function $f(x)=\int_0^2 \frac{x\left(t^2+1\right)}{x^2+t^2} d t$ is not continuous at $x=0$.	
+MI1124E-1-3	MI1124E-1	easy	Question 1 (1pt). Find the tangent plane and normal line to $x^2+2 y^2-3 z^2=14$ at the point $A(3 ;-2 ; 1)$.	
+MI1124E-1-4	MI1124E-1	easy	"Question 2 (1pt). Calculate the integral $\iint_D\left(x^2-3 y^2\right) d x d y$ where $D$ is the region bounded by the lines $x=0, y=0$ and $x-y=1$."	
+MI1124E-2-3	MI1124E-2	medium	Question 3 ( 1 pt ). Calculate the volume of the solid $V$ defined by: $1 \leq y \leq 3 ; z \leq x^2 \leq 3 z ; x \leq z^2 \leq 3 x$.	
+MI1124E-2-4	MI1124E-2	hard	Question 4 (1pt). Calculate $\int_0^3 \frac{x^3 d x}{\sqrt[3]{27-x^3}}$.	
+MI1124E-3-3	MI1124E-3	easy	"Question $5(1 \mathrm{pt})$. Calculate $\int_C(3 y-2 x) d s, C$ is the circle with the equation: $x^2+y^2=6 x-8 y$."	
+MI1124E-3-4	MI1124E-3	medium	Question $6(1 \mathrm{pt})$. Calculate the area of the part of the paraboloid $y=4-x^2-z^2$ that lies within the cylinder $x^2+z^2 \leq 1$.	
+MI1124E-4-3	MI1124E-4	medium	"Question 7 ( 1 pt ). Calculate the flux of the vector field $\vec{F}=\left(3 x y^2+3 x^2\right) \vec{i}+\left(3 y z^2+2 x y\right) \vec{j}+\left(y+3 z x^2\right) \vec{k}$ through the sphere $x^2+y^2+z^2=1$, outward orientation."	
+MI1124E-4-4	MI1124E-4	easy	"Question 8 (1pt). Given the function $u=x^3+2 y z+z^2$ and the points $A(1 ;-1 ; 1), B(2 ; 1 ;-1)$. Find the derivative of the function $u$ at $B$ in the direction of $\overrightarrow{B A}$."	
+MI1124E-5-2	MI1124E-5	hard	"Question 9 (1pt). Calculate
+
+$$
+\oint_C\left(y+e^{-x} \arcsin x y\right) d x+\left(e^y \arccos x y\right) d y
+$$
+
+where $C$ is the curve with the equation $|x|+|y|=1$."	
+MI1124E-6-2	MI1124E-6	hard	Question $10(1 \mathbf{p t})$. Prove that the function $f(x)=\int_0^3 \frac{x\left(3 t^2+1\right)}{x^2+t^2} d t$ is not continuous at $x=0$.	
+MI1130Q-1-1	MI1130Q-1	easy  	"Câu 1 (2?). Xét s? h?i t?, phân kì c?a các chu?i s? sau
+a) $\sum_{n=2}^{\infty} \frac{1}{(2 n+1) \ln n}$
+b) $\sum_{n=1}^{\infty} \sin \left(\frac{(-1)^n}{n}+n \pi\right)$"	
+MI1130Q-1-2	MI1130Q-1	easy  	"Câu 2 (1d). Tìm mi?n h?i t? c?a chu?i hàm s?
+
+$$
+\sum_{n=1}^{\infty}\left(\frac{2 n+1}{n+3}\right)^n(2 x+1)^n
+$$"	
+MI1130Q-2-1	MI1130Q-2	medium  	Câu 3 (1?). Tính t?ng: $\sum_{n=0}^{\infty} \frac{1}{3^n(n+1)!}$.	
+MI1130Q-3-1	MI1130Q-3	medium  	Câu 4 (1d). Khai tri?n hàm s? $f(x)=\ln (2+x)$ thành chu?i Maulaurin.	
+MI1130Q-4-1	MI1130Q-4	easy  	"Câu 5 (3d). Gi?i các ph??ng trình vi phân sau:
+a) $y^{\prime}=y^2-4 y+3$.
+b) $d y+(2 y-4 x) d x=0, y(0)=1$.
+c) $y^{\prime \prime}+y^{\prime}=1+4 \sin x$."	
+MI1130Q-5-1	MI1130Q-5	hard  	Câu 6 (1d). Tính $\mathcal{L}^{-1}\left(\frac{s+3}{s^2-2 s+10}\right)$.	
+MI1130Q-6-1	MI1130Q-6	hard  	"Câu 7 (1?). Gi?i bài toán giá tr? ban ??u
+
+$$
+\left\{\begin{array}{l}
+x^{\prime \prime}+16 x=f(t) \\
+x(0)=x^{\prime}(0)=0
+\end{array} \text { ? ?ó } f(t)=\left\{\begin{array}{l}
+\sin 2 t, t \geqslant \frac{\pi}{2} \\
+0, \quad 0<t<\frac{\pi}{2}
+\end{array}\right.\right.
+$$"	
+MI1130Q-1-3	MI1130Q-1	easy  	"Câu 1 (2d). Xét s? h?i t?, phân kì c?a các chu?i s? sau
+a) $\sum_{n=2}^{\infty} \frac{1}{n \ln (2 n+1)}$
+b) $\sum_{n=1}^{\infty} \sin \left(\frac{(-1)^n}{\sqrt{n}}+n \pi\right)$"	
+MI1130Q-1-4	MI1130Q-1	easy  	"Câu 2 (1?). Tìm mi?n h?i t? c?a chu?i hàm s?
+
+$$
+\sum_{n=1}^{\infty}\left(\frac{n+1}{2 n+3}\right)^n(2 x-1)^n
+$$"	
+MI1130Q-2-2	MI1130Q-2	medium  	Câu 3 (1?). Tính t?ng: $\sum_{n=0}^{\infty} \frac{1}{2^n(n+1)!}$.	
+MI1130Q-3-2	MI1130Q-3	medium  	Câu 4 (1?). Khai tri?n hàm s? $f(x)=\ln (5-x)$ thành chu?i Maulaurin.	
+MI1130Q-4-2	MI1130Q-4	easy  	"Câu 5 (3d). Gi?i các ph??ng trình vi phân sau:
+a) $y^{\prime}=y^2+4 y+3$.
+b) $d y-(2 y-4 x) d x=0, y(0)=3$.
+c) $y^{\prime \prime}+y^{\prime}=3+2 \sin x$."	
+MI1130Q-5-2	MI1130Q-5	hard  	Câu 6 (1d). Tính $\mathcal{L}^{-1}\left(\frac{s-3}{s^2+2 s+10}\right)$.	
+MI1130Q-6-2	MI1130Q-6	hard  	"Câu 7 (1?). Gi?i bài toán giá tr? ban ??u
+
+$$
+\left\{\begin{array}{l}
+x^{\prime \prime}+16 x=f(t) \\
+x(0)=x^{\prime}(0)=0
+\end{array} \text { ? ?ó } f(t)=\left\{\begin{array}{l}
+\cos 2 t, 0<t<\frac{\pi}{2} \\
+0, \quad t \geqslant \frac{\pi}{2}
+\end{array}\right.\right.
+$$"	
+MI1131-1-1	MI1131-1	easy  	"Câu 1 (2?). Xét s? h?i t?, phân k? c?a các chu?i s? sau.
+a) $\sum_{n=1}^{\infty} \frac{(n+1)^2}{2^n+n}$
+b) $\sum_{n=2}^{\infty} \ln \left(1+\frac{(-1)^n}{n^{1 / 3}}\right)$"	
+MI1131-1-2	MI1131-1	easy  	Câu 2 (1?). Tìm mi?n h?i t? c?a chu?i hàm s? $\sum_{n=1}^{\infty}\left(\frac{100-2 n}{n+3}\right)^n x^n$.	
+MI1131-2-1	MI1131-2	medium  	"Câu 3 (3d). Gi?i các ph??ng trình vi phân sau.
+a) $y^{\prime}=y^2-2 y+1, y(0)=2$;
+b) $x^2 y^{\prime}+8 x y=10 y^3, y(1)=-1 / 2$;
+c) $y^{\prime \prime}-4 y^{\prime}+3 y=\left(16 x^7+56 x^6+2\right) e^{3 x}$."	
+MI1131-3-1	MI1131-3	medium  	"Câu 4 (1d). Khai tri?n hàm s? $f(x)=\cos (3 x), 0<x<\pi$, thành chu?i Fourier ch? ch?a các hàm sin."	
+MI1131-4-1	MI1131-4	easy  	Câu 5 (1d). Tìm bi?n ??i Laplace $\mathcal{L}\left\{\left(e^{-t}+1\right)^2 \sin (3 t)\right\}$.	
+MI1131-5-1	MI1131-5	hard  	"Câu 6 (1d). S? d?ng bi?n ??i Laplace gi?i ph??ng trình
+
+$$
+x^{(3)}+x^{\prime \prime}(t)-17 x^{\prime}(t)-65 x(t)=0, \quad x(0)=-1, x^{\prime}(0)=24, x^{\prime \prime}(0)=-63
+$$"	
+MI1131-6-1	MI1131-6	hard  	"Câu 7 (1d). Tìm ?i?u ki?n c?n và ?? c?a $a$ ?? h? ph??ng trình vi phân $\left\{\begin{array}{l}y^{\prime}=(a+1) y+z, \\ z^{\prime}=2 y+a z\end{array}\right.$ thóa mãn $\lim _{x \rightarrow \infty} y(x)=\lim _{x \rightarrow \infty} z(x)=0$ v?i ?i?u ki?n ban ??u $y(0)=y_0, z(0)=z_0$ bât k?."	
+MI1131-1-3	MI1131-1	easy  	"Câu 1 (2?). Xét s? h?i t?, phân k? c?a các chu?i s? sau.
+a) $\sum_{n=1}^{\infty} \frac{(2 n+1)^2}{3^n+n}$
+b) $\sum_{n=2}^{\infty} \ln \left(1+\frac{(-1)^n}{n^{2 / 7}}\right)$"	
+MI1131-1-4	MI1131-1	easy  	Câu 2 (1?). Tìm mi?n h?i t? c?a chu?i hàm s? $\sum_{n=1}^{\infty}\left(\frac{99-3 n}{n+2}\right)^n x^n$.	
+MI1131-2-2	MI1131-2	medium  	"Câu 3 (3?). Gi?i các ph??ng trình vi phân sau.
+a) $y^{\prime}=4 y^2+4 y+1, y(0)=0$;
+b) $x^2 y^{\prime}+4 x y=8 y^3, y(1)=1$;
+c) $y^{\prime \prime}-y^{\prime}-2 y=\left(27 x^8+72 x^7-3\right) e^{2 x}$."	
+MI1131-3-2	MI1131-3	medium  	"Câu 4 (1?). Khai tri?n hàm s? $f(x)=\sin (3 x), 0<x<\pi$, thành chu?i Fourier ch? ch?a các hàm cos."	
+MI1131-4-2	MI1131-4	easy  	Câu 5 (1?). Tìm bi?n ??i Laplace $\mathcal{L}\left\{\left(e^{-t}+1\right)^2 \cos (2 t)\right\}$.	
+MI1131-5-2	MI1131-5	hard  	"Câu 6 (1d). S? d?ng bi?n ??i Laplace gi?i ph??ng trình
+
+$$
+x^{(3)}-x^{\prime \prime}(t)+8 x^{\prime}(t)+60 x(t)=0, \quad x(0)=4, x^{\prime}(0)=20, x^{\prime \prime}(0)=41
+$$"	
+MI1131-6-2	MI1131-6	hard  	"Câu 7 (1d). Tìm ?i?u ki?n c?n và d? c?a $a$ ?? h? ph??ng trình vi phân $\left\{\begin{array}{l}y^{\prime}=a y+4 z, \\ z^{\prime}=2 y+(a+2) z\end{array}\right.$ th?a mãn $\lim _{x \rightarrow \infty} y(x)=\lim _{x \rightarrow \infty} z(x)=0$ v?i ?i?u ki?n ban ??u $y(0)=y_0, z(0)=z_0$ b?t k?."	
+MI1132-1-1	MI1132-1	easy  	"Câu 1 [2?]. Xét s? h?i t?, phân kì c?a chu?i s?
+a) $\sum_{n=1}^{\infty} \frac{\tan \frac{5}{n}}{\sqrt{n+1}}$
+b) $\sum_{n=1}^{\infty}(-1)^n \frac{n+5}{5 n^2-1}$."	
+MI1132-2-1	MI1132-2	medium  	"Câu 2 [1.5?]. Tìm mi?n h?i t? c?a chu?i hàm
+
+$$
+\sum_{n=1}^{\infty} \frac{5^n}{(2023 n-5)^2} x^{n+1}
+$$"	
+MI1132-3-1	MI1132-3	medium  	"Câu 3 [1?]. Khai tri?n hàm s? sau ?ây thành chu?i Maclaurin
+
+$$
+f(x)=\frac{\left(1-e^{5 x}\right)^2}{e^{5 x}}
+$$"	
+MI1132-4-1	MI1132-4	easy  	"Câu 4 [2.5?]. Gi?i các ph??ng trình vi phân sau:
+a) $y^{\prime \prime}-2 y^{\prime \prime}+y=(x+5) e^{-x}$
+b) $x^2 y^{\prime \prime}+5 x y^{\prime}-5 y=0$"	
+MI1132-5-1	MI1132-5	hard  	"Câu 5 [2?]. a) Tìm bi?n ??i Laplace c?a hàm s?
+
+$$
+f(t)=e^{-5 t} \sin \left(5 t+\frac{\pi}{3}\right)
+$$
+
+b) S? d?ng phép bi?n ??i Laplace gi?i ph??ng trình vi phân
+
+$$
+x^{(4)}+8 x^{\prime \prime}+16 x=0
+$$
+
+v?i $x(0)=x^{\prime}(0)=0, x^{\prime \prime}(0)=5$ và $x^{(3)}(0)=0$."	
+MI1132-6-1	MI1132-6	hard  	Câu 6 [1?]. Tính t?ng sau $A=\frac{5^{-1}}{1.2}+\frac{5^{-3}}{3.4}+\frac{5^{-5}}{5.6}+\cdots$	
+MI1132-1-2	MI1132-1	easy  	"Câu 1 [2?]. Xét s? h?i t?, phân kì c?a chu?i s?
+a) $\sum_{n=1}^{\infty} \frac{\tan \frac{6}{n}}{\sqrt[3]{n+1}}$
+b) $\sum_{n=1}^{\infty}(-1)^n \frac{n+6}{6 n^2-1}$"	
+MI1132-2-2	MI1132-2	medium  	"Câu 2 [1.5?]. Tìm mi?n h?i t? c?a chu?i hàm
+
+$$
+\sum_{n=1}^{\infty} \frac{6^n}{(2023 n-6)^2} x^{n+1}
+$$"	
+MI1132-3-2	MI1132-3	medium  	"Câu 3 [1?]. Khai tri?n hàm s? sau ?ây thành chu?i Maclaurin
+
+$$
+f(x)=\frac{\left(1-e^{6 x}\right)^2}{e^{6 x}}
+$$"	
+MI1132-4-2	MI1132-4	easy  	"Câu 4 [2.5?]. Gi?i các ph??ng trình vi phân sau:
+a) $y^{\prime \prime}-2 y^{\prime}+y=(x+6) e^{-x}$
+b) $x^2 y^{\prime \prime}+6 x y^{\prime}-6 y=0$"	
+MI1132-5-2	MI1132-5	hard  	"Câu 5 [2?]. a) Tìm bi?n ??i Laplace c?a hàm s?
+
+$$
+f(t)=e^{-6 t} \cos \left(6 t-\frac{\pi}{3}\right)
+$$
+
+b) S? d?ng phép bi?n ??i Laplace gi?i ph??ng trình vi phân
+
+$$
+x^{(4)}+8 x^{\prime \prime}+16 x=0
+$$
+
+v?i $x(0)=x^{\prime}(0)=x^{\prime \prime}(0)=0$ và $x^{(3)}(0)=6$."	
+MI1132-6-2	MI1132-6	hard  	Câu 6 [1?]. Tính t?ng sau $B=\frac{6^{-1}}{1.2}+\frac{6^{-3}}{3.4}+\frac{6^{-5}}{5.6}+\cdots$	
+MI1133-1-1	MI1133-1	easy  	"Câu 1 (2?). Xét s? h?i t?, phân kì c?a các chu?i s? sau:
+a) $\sum_{n=1}^{\infty} \frac{n+7}{\sqrt{n^2+7}}$
+b) $\sum_{n=1}^{\infty} \frac{\ln (n+7)}{n^2+7}$."	
+MI1133-2-1	MI1133-2	medium  	Câu 2 (1d). Tìm mi?n h?i t? c?a chu?i hàm s? $\sum_{n=1}^{\infty} \frac{(-7)^n}{n+7}(x-1)^n$.	
+MI1133-3-1	MI1133-3	medium  	"Câu 3 (3?). Gi?i các ph??ng trình vi phân sau:
+a) $2 y y^{\prime}=7 e^{-7 x}\left(y^2+1\right), y(0)=1$.
+b) $y^{\prime \prime}+7 y^{\prime}=50 \sin x$.
+c) $\left(y^2+1\right) d x+(4 x y-7) d y=0$."	
+MI1133-4-1	MI1133-4	easy  	Câu 4 (1?). Tìm bi?n ??i Laplace ng??c $L^{-1}\left\{\frac{s+2024}{s^2+2 s+2}\right\}$	
+MI1133-5-1	MI1133-5	hard  	"Câu 5 (2?). S? d?ng phép bi?n ??i Laplace ?? gi?i các ph??ng trình vi phân sau:
+a) $x^{\prime \prime}+4 x=\cos (2 t), x(0)=x^{\prime}(0)=0$.
+b) $x^{\prime \prime \prime}-x^{\prime \prime}+x^{\prime}-x=7, x(0)=x^{\prime}(0)=0, x^{\prime \prime}(0)=0$."	
+MI1133-6-1	MI1133-6	hard  	Câu 6 (1?). Tính t?ng c?a chu?i s? $\sum_{n=1}^{\infty} \frac{n(n+2)}{7^n}$.	
+MI1133-1-2	MI1133-1	easy  	"Câu 1 (2d). Xét s? h?i t?, phân kì c?a các chu?i s? sau:
+a) $\sum_{n=1}^{\infty} \frac{n+8}{\sqrt{n^2+8}}$
+b) $\sum_{n=1}^{\infty} \frac{\ln (n+8)}{n^2+8}$."	
+MI1133-2-2	MI1133-2	medium  	Câu 2 (1?). Tìm mi?n h?i t? c?a chu?i hàm s? $\sum_{n=1}^{\infty} \frac{(-8)^n}{n+8}(x-2)^n$.	
+MI1133-3-2	MI1133-3	medium  	"Câu 3 (3d). Gi?i các ph??ng trình vi phân sau:
+a) $y y^{\prime}=4 e^{-8 x}\left(y^2+1\right), y(0)=2$.
+b) $y^{\prime \prime}+8 y^{\prime}=65 \cos x$.
+c) $\left(y^2+1\right) d x+(4 x y-8) d y=0$."	
+MI1133-4-2	MI1133-4	easy  	Câu 4 (1?). Tìm bi?n ??i Laplace ng??c $L^{-1}\left\{\frac{s+2024}{s^2-2 s+2}\right\}(t)$.	
+MI1133-5-2	MI1133-5	hard  	"Câu 5 (2d). S? d?ng phép bi?n ??i Laplace ?? gi?i các ph??ng trình vi phân sau:
+a) $x^{\prime \prime}+9 x=\cos (3 t), x(0)=x^{\prime}(0)=0$.
+b) $x^{\prime \prime \prime}-x^{\prime \prime}+x^{\prime}-x=8, x(0)=x^{\prime}(0)=0, x^{\prime \prime}(0)=0$."	
+MI1133-6-2	MI1133-6	hard  	Câu 6 (1?). Tính t?ng c?a chu?i s? $\sum_{n=1}^{\infty} \frac{n(n+2)}{8^n}$.	
+MI1134-1-1	MI1134-1	easy  	"Câu 1 (2?). Xét s? h?i t? c?a các chu?i s? sau:
+(a) $\sum_{n=0}^{+\infty} \frac{5^n+2^n}{4^n+3^n}$
+(b) $\sum_{n=0}^{+\infty} \frac{(-1)^n}{\sqrt{n}+1}$."	
+MI1134-2-1	MI1134-2	medium  	Câu 2 (1?). Tìm mi?n h?i t? c?a chu?i hàm $\sum_{n=1}^{\infty} \frac{(-1)^n}{n}(x+1)^n$.	
+MI1134-3-1	MI1134-3	medium  	"Câu 3 (3?). Gi?i các ph??ng trình vi phân sau:
+(a) $x\left(e^y+4\right) d x+\left(x^2+9\right) e^y d y=0$.
+(b) $y^{\prime}-\frac{4}{x} y=4 x^3$ v?i ?i?u ki?n ??u $y(1)=1$.
+(c) $y^{\prime \prime}-2 y^{\prime}+y=e^x$."	
+MI1134-4-1	MI1134-4	easy  	Câu 4 (1?). Tính $\mathcal{L}^{-1}\left\{\frac{s^2+1}{s^3-2 s^2+8 s}\right\}(t)$.	
+MI1134-5-1	MI1134-5	hard  	"Câu 5 (2d). Cho hàm s? $f(t)=\left\{\begin{array}{llc}1 & \text { n?u } & 0 \leq t<1 \\ 0 & \text { n?u } & t \geq 1\end{array}\right.$.
+(a) Tính $\mathcal{L}\{f(t)\}(s)$.
+(b) S? d?ng bi?n ??i Laplace, gi?i ph??ng trình vi phân:
+
+$$
+x^{\prime \prime}+x=f(t)
+$$
+
+v?i ?i?u ki?n ??u $x(0)=x^{\prime}(0)=0$."	
+MI1134-6-1	MI1134-6	hard  	Câu 6 (1d). Tính t?ng $\sum_{n=1}^{+\infty} \frac{((n-1)!)^2}{(2 n)!}(2 x)^{2 n}$ v?i $|x|<1$.	
+MI1134-1-2	MI1134-1	easy  	"Câu 1 (2?). Xét s? h?i t? c?a các chu?i s? sau:
+(a) $\sum_{n=0}^{+\infty} \frac{6^n-2^n}{5^n+3^n}$
+(b) $\sum_{n=0}^{+\infty} \frac{(-1)^n}{\sqrt[3]{n}+2}$."	
+MI1134-2-2	MI1134-2	medium  	Câu 2 (1d). Tìm mi?n h?i t? c?a chu?i hàm $\sum_{n=1}^{\infty} \frac{(-1)^{n+1}}{n+2}(x-1)^n$.	
+MI1134-3-2	MI1134-3	medium  	"Câu 3 (3d). Gi?i các ph??ng trình vi phân sau:
+(a) $x\left(e^y+1\right) d x+\left(x^2+1\right) e^y d y=0$.
+(b) $y^{\prime}-\frac{6}{x} y=2 x^2$ v?i ?i?u ki?n ??u $y(1)=1$.
+(c) $y^{\prime \prime}-4 y^{\prime}+3 y=e^{3 x}$."	
+MI1134-4-2	MI1134-4	easy  	Câu 4 (1d). Tính $\mathcal{L}^{-1}\left\{\frac{s^2+2}{s^3-4 s^2+8 s}\right\}(t)$.	
+MI1134-5-2	MI1134-5	hard  	"Câu 5 (2?). Cho hàm s? $f(t)=\left\{\begin{array}{ccc}-1 & \text { n?u } & 0 \leq t<2 \\ 0 & \text { n?u } & t \geq 2\end{array}\right.$.
+(a) Tính $\mathcal{L}\{f(t)\}(s)$.
+(b) S? d?ng bi?n ??i Laplace, gi?i ph??ng trình vi phân:
+
+$$
+x^{\prime \prime}+4 x=f(t)
+$$
+
+v?i ?i?u ki?n ??u $x(0)=x^{\prime}(0)=0$."	
+MI1134-6-2	MI1134-6	hard  	Câu 6 (1?). Tính t?ng $\sum_{n=1}^{+\infty} \frac{((n-1)!)^2}{(2 n)!}(2 x)^{2 n}$ v?i $|x|<1$.	
+MI1134E-1-1	MI1134E-1	easy  	"Question 1 (2pts). Test for convergence of the following series:
+(a) $\sum_{n=0}^{\infty} \frac{5^n+2^n}{4^n+3^n}$
+(b) $\sum_{n=0}^{\infty} \frac{(-1)^n}{\sqrt{n}+1}$."	
+MI1134E-2-1	MI1134E-2	medium  	Question 2 (1pts). Find the domain of convergence of the series $\sum_{n=1}^{\infty} \frac{(-1)^n}{n}(x+1)^n$.	
+MI1134E-3-1	MI1134E-3	medium  	"Question 3 (3pts). Solve the following problems:
+(a) $x\left(e^y+4\right) d x+\left(x^2+9\right) e^y d y=0$.
+(b) $y^{\prime}-\frac{4}{x} y=4 x^3$ with the initial condition $y(1)=1$.
+(c) $y^{\prime \prime}-2 y^{\prime}+y=e^x$."	
+MI1134E-4-1	MI1134E-4	easy  	Question 4 (1pt). Determine $\mathcal{L}^{-1}\left\{\frac{s^2+1}{s^3-2 s^2+8 s}\right\}(t)$.	
+MI1134E-5-1	MI1134E-5	hard  	"Question 5 (2pt). Given $f(t)=\left\{\begin{array}{llc}1 & \text { if } & 0 \leq t<1 \\ 0 & \text { if } & t \geq 1\end{array}\right.$.
+(a) Determine $\mathcal{L}\{f(t)\}(s)$.
+(b) Using Laplace transforms, solve the following differential equation:
+
+$$
+x^{\prime \prime}+x=f(t)
+$$
+
+with the initial conditions $x(0)=x^{\prime}(0)=0$."	
+MI1134E-6-1	MI1134E-6	hard  	Question 6 (1pt). Find the sum $\sum_{n=1}^{\infty} \frac{((n-1)!)^2}{(2 n)!}(2 x)^{2 n}$ where $|x|<1$.	
+MI1134E-1-2	MI1134E-1	easy  	"Question 1 (2pts). Test for convergence of the following series
+(a) $\sum_{n=0}^{\infty} \frac{6^n-2^n}{5^n+3^n}$
+(b) $\sum_{n=0}^{\infty} \frac{(-1)^n}{\sqrt[3]{n}+2}$."	
+MI1134E-2-2	MI1134E-2	medium  	Question 2 (1pts). Find the domain of convergence of the series $\sum_{n=1}^{\infty} \frac{(-1)^{n+1}}{n+2}(x-1)^n$.	
+MI1134E-3-2	MI1134E-3	medium  	"Question 3 (3pt). Solve the following problems:
+(a) $x\left(e^y+1\right) d x+\left(x^2+1\right) e^y d y=0$.
+(b) $y^{\prime}-\frac{6}{x} y=2 x^2$ with the initial condition $y(1)=1$.
+(c) $y^{\prime \prime}-4 y^{\prime}+3 y=e^{3 x}$."	
+MI1134E-4-2	MI1134E-4	easy  	Question 4 (1pt). Determine $\mathcal{L}^{-1}\left\{\frac{s^2+2}{s^3-4 s^2+8 s}\right\}(t)$.	
+MI1134E-5-2	MI1134E-5	hard  	"Question 5 (2pt). Given $f(t)=\left\{\begin{array}{clc}-1 & \text { if } & 0 \leq t<2 \\ 0 & \text { if } & t \geq 2\end{array}\right.$.
+(a) Determine $\mathcal{L}\{f(t)\}(s)$.
+(b) Using Laplace transforms, solve the following differential equation:
+
+$$
+x^{\prime \prime}+4 x=f(t)
+$$
+
+with the initial conditions $x(0)=x^{\prime}(0)=0$."	
+MI1134E-6-2	MI1134E-6	hard  	Question 6 (1pt). Find the sum $\sum_{n=1}^{\infty} \frac{((n-1)!)^2}{(2 n)!}(2 x)^{2 n}$ where $|x|<1$.	
+MI1141-1-1	MI1141-1	easy  	"Câu 1(1?). Cho m?nh ?? : "" N?u 2024 là s? ch?n, hay 2023 chia h?t cho 3, thì ph??ng trình $x^3-3 x^2+1=0$ ch? có ?úng 1 nghi?m th?c"". Mô t? m?nh ?? ?ã cho b?ng các phép toán mênh ?? và cho bi?t m?nh ?? này ?úng hay sai? Vi sao?"	
+MI1141-2-1	MI1141-2	medium  	"Câu 2(2?). Cho ánh x? $f: \mathbb{R} \rightarrow \mathbb{R}$, xác ??nh b?i $f(x)=2 x^3-x^2$ và $A=[0 ; 1]$. f có ??n ánh, toàn ánh không? Vi sao? $\operatorname{Ti?m} f^{-1}(A)$."	
+MI1141-3-1	MI1141-3	medium  	"Câu 3(1d). Gi?i ph??ng trình
+
+$$
+z^4-2 z^3+6 z^2-2 z+5=0
+$$
+
+bi?t ph??ng trình có 1 nghi?m $z=1+2 i$."	
+MI1141-4-1	MI1141-4	easy  	"Câu 4(2d). Trong $P_3[x]$ cho các vect? $p_1=1-2 x+x^2+x^3, p_2=2+3 x-x^2+4 x^3$,
+
+$$
+p_3=3+x+5 x^3, p_4=1+5 x-2 x^2+m x^3, p_5=6+2 x+n x^3 . \text { Ký hi?u }
+$$
+
+$T=\operatorname{span}\left\{p_1, p_2, p_3\right\}, S=\operatorname{span}\left\{p_4, p_5\right\}$. Tìm $m, n$ ?? $\operatorname{dim} T \cap S=3$."	
+MI1141-5-1	MI1141-5	hard  	"Câu 5(3d). Trên không gian Euclide $\mathbb{R}^3$ v?i tích vô h??ng chính t?c cho toán t? tuy?n tính $f$ xác ??nh b?i
+
+$$
+f\left(x_1, x_2, x_3\right)=\left(x_1+2 x_2+2 x_3, 2 x_1+x_2+2 x_3, 2 x_1+2 x_2+x_3\right)
+$$
+
+a) Tìm 1 c? s? tr?c chu?n g?m các vect? riêng c?a $f$ và tìm ma tr?n c?a $f$ theo c? s? tr?c chu?n ?ó.
+b) Ch?ng minh $f$ là m?t phép ??ng c?u c?a $\mathbb{R}^3$, ??ng th?i tìm phép ??ng c?u ngh?ch ??o $f^{-1}$."	
+MI1141-6-1	MI1141-6	hard  	"Câu 6(1d). Cho h? ph??ng trình $\left\{\begin{array}{c}a x+(3 a+1) y-3 z+5 t=0 \\ (3 a+4) x+4 y+2 a z+4 t=0 \\ (a-3) x+(a+1) y+(a-3) z+(a+1) t=0 \\ a x+(a-5) y+a z+(a-5) t=0\end{array}\right.$.
+Tìm $a$ ?? h? trên ch? có nghi?m t?m th??ng."	
+MI1141-1-2	MI1141-1	easy  	"Câu 1(1?). Cho m?nh ??: "" N?u 2024 là s? lé, hay 2025 chia h?t cho 9, thì ph??ng trình $x^3+3 x^2+5=0$ có nhi?u h?n 1 nghi?m th?c"". Mô t? m?nh ?? ?ã cho b?ng các phép toán mênh ?? và cho bi?t m?nh ?? này ?úng hay sai? Vi sao?"	
+MI1141-2-2	MI1141-2	medium  	"Câu 2(2d). Cho ánh x? $f: \mathbb{R} \rightarrow \mathbb{R}$, xác ??nh b?i $f(x)=4 x^3-x^2$ và $A=[0 ; 3]$. f có ??n ánh, toàn ánh không? Vi sao? $\operatorname{Tim} f^{-1}(A)$."	
+MI1141-3-2	MI1141-3	medium  	"Câu 3(1d). Gi?i ph??ng trình
+
+$$
+z^4-6 z^3+14 z^2-6 z+13=0
+$$
+
+bi?t ph??ng trình có 1 nghi?m $z=3-2 i$."	
+MI1141-4-2	MI1141-4	easy  	"Câu 4(2?). Trong $P_3[x]$ cho các vect? $p_1=1+x+x^2+2 x^3, p_2=x-x^2+x^3$,
+
+$$
+\begin{aligned}
+& p_3=1+2 x+3 x^3, p_4=1+2 x^2+m x^3, p_5=2+4 x+n x^3 . \text { Ký hi?u } \\
+& T=\operatorname{span}\left\{p_1, p_2, p_3\right\}, S=\operatorname{span}\left\{p_4, p_5\right\} . \text { Tim } m, n \text { ?? } \operatorname{dim} T \cap S=3 .
+\end{aligned}
+$$"	
+MI1141-5-2	MI1141-5	hard  	"Câu 5(3d). Trên không gian Euclide $\mathbb{R}^3$ v?i tích vô h??ng chính t?c cho toán t? tuy?n tính $f$ xác ??nh b?i
+
+$$
+f\left(x_1, x_2, x_3\right)=\left(x_1+3 x_2+3 x_3, 3 x_1+x_2+3 x_3, 3 x_1+3 x_2+x_3\right)
+$$
+
+c) Tìm 1 c? s? tr?c chu?n g?m các vect? riêng c?a $f$ và tìm ma tr?n c?a $f$ theo c? s? tr?c chu?n ?ó.
+d) Ch?ng minh $f$ là m?t phép ??ng c?u c?a $\mathbb{R}^3$, ??ng th?i tìm phép ??ng c?u ngh?ch ??o $f^{-1}$."	
+MI1141-6-2	MI1141-6	hard  	"Câu 6(1d). Cho h? ph??ng trình $\left\{\begin{array}{c}(3 a+4) x+5 y+2 a z+5 t=0 \\ a x+(3 a+1) y-3 z+7 t=0 \\ (a-3) x+(a+1) y+(a-3) z+(a+1) t=0 \\ a x+(a-2) y+a z+(a-2) t=0\end{array}\right.$.
+Tìm $a$ ?? h? trên có nghi?m không t?m th??ng."	
+MI2010-1-1	MI2010-1	easy  	"Câu 1 (1.5d). Ch?ng minh $(0.5 ; 1)$ là kho?ng cách ly nghi?m c?a ph??ng trình $e^x-3 x^2=0$. S? d?ng ph??ng pháp ti?p tuy?n (Newton), hãy tìm nghi?m x?p x? v?i 6 ch? s? ?áng tin."	
+MI2010-2-1	MI2010-2	medium  	"Câu 2 (2d). C??ng ?? phóng x? c?a m?t ngu?n phóng x? ???c cho b?i công th?c $y=(a x+b)^{-1}$. Hãy xác ??nh các tham s? $a, b$ ?? x?p xi t?t nh?t b?ng s? li?u sau theo ph??ng pháp bình ph??ng t?i thi?u.
+\begin{tabular}{l|l|l|l|l|l}
+x & 0.2 & 0.3 & 0.4 & 0.5 & 0.6 \\
+\hline y & 3.16 & 2.38 & 1.75 & 1.34 & 1.00
+\end{tabular}"	
+MI2010-3-1	MI2010-3	medium  	"Câu 3 (1.5?). T? b?ng s? li?u sau, dùng công th?c ?a th?c n?i suy Newton ti?n v?i các m?c n?i suy cách ??u ?? tính x?p xi $f(3.1)$.
+\begin{tabular}{c|c|c|c|c|c}
+$x$ & 2.0 & 2.4 & 2.8 & 3.2 & 3.6 \\
+\hline$y$ & 124.80 & 133.72 & 142 & 149.81 & 157.23
+\end{tabular}"	
+MI2010-4-1	MI2010-4	easy  	"Câu 4 (2d). a) Tính x?p xi tích phân $I=\int_0^1 e^x x^2 d x$ b?ng cách s? d?ng ph??ng pháp hình thang v?i b??c $h=0.1$.
+b) S? d?ng công th?c ?ánh giá sai s?, hãy tìm s? ?i?m chia $n$ t?i thi?u ?? ??t ???c sai s? tuy?t ??i $\Delta I \leq 5 \times 10^{-9}$."	
+MI2010-5-1	MI2010-5	hard  	"Câu 5 (1.5d). a) S? d?ng công th?c (sai phân) trung tâm, tính g?n ?úng ??o hàm c?a hàm s? $y(x)$ t?i $2.20,2.40,2.60$ trong b?ng giá tr?
+\begin{tabular}{l|l|l|l|l|l}
+x & 2.0 & 2.20 & 2.40 & 2.60 & 2.80 \\
+\hline y & 29.5562 & 43.6811 & 63.4935 & 91.0149 & 128.9260
+\end{tabular}
+b) S? d?ng công th?c 3 ?i?m c?n trái ?? tính x?p x? $y^{\prime}(2.0)$ và công th?c 3 ?i?m c?n ph?i ?? tính x?p x? $y^{\prime}(2.8)$."	
+MI2010-6-1	MI2010-6	hard  	"Câu 6 (1.5d). a) Dùng công th?c Euler ?n v?i b??c $h=0.1$ ?? tính x?p xi $y$ t?i $x=1.1,1.2$
+
+$$
+y^{\prime}(x)=x(y+1) \quad \text { v?i m?i } x \geq 1, y(1)=3
+$$
+
+b) Vi?t thu?t toán ?? tính x?p xi nghi?m c?a bài toán Cauchy 1 chi?u, b?c 1 trên ?o?n $\left[x_0, X\right]$ theo công th?c Euler c?i ti?n, v?i b??c $h$."	
+MI2010-1-2	MI2010-1	easy  	"Câu 1 (1.5d). Ch?ng minh (3;4) là kho?ng cách ly nghi?m c?a ph??ng trình $e^x-3 x^2=0$. S? d?ng ph??ng pháp ti?p tuy?n (Newton), hãy tìm nghi?m x?p x? v?i 5 ch? s? ?áng tin."	
+MI2010-2-2	MI2010-2	medium  	"Câu 2 ( 2 d). C??ng ?? phóng x? c?a m?t ngu?n phóng x? ???c cho b?i công th?c $y=b e^{a x}$. Hãy xác ??nh các tham s? $a, b$ ?? x?p x? t?t nh?t b?ng s? li?u sau theo ph??ng pháp bình ph??ng t?i thi?u.
+\begin{tabular}{l|l|l|l|l|l}
+x & 0.2 & 0.3 & 0.4 & 0.5 & 0.6 \\
+\hline y & 3.16 & 2.38 & 1.75 & 1.34 & 1.00
+\end{tabular}"	
+MI2010-3-2	MI2010-3	medium  	"Câu 3 (1.5d). T? b?ng s? li?u sau, dùng công th?c ?a th?c n?i suy Newton ti?n v?i các m?c n?i suy cách ??u ?? tính x?p x? $f(3.6)$.
+\begin{tabular}{c|c|c|c|c|c}
+$x$ & 3.1 & 3.5 & 3.9 & 4.3 & 4.7 \\
+\hline$y$ & 145.96 & 151.70 & 157.23 & 162.57 & 167.73
+\end{tabular}"	
+MI2010-4-2	MI2010-4	easy  	"Câu 4 (2?). a) Tính x?p xi tích phân $I=\int_1^2 e^{-x} x^2 d x$ b?ng cách s? d?ng ph??ng pháp hình thang v?i b??c $h=0.1$.
+b) S? d?ng công th?c ?ánh giá sai s?, hãy tìm s? ?i?m chia $n$ t?i thi?u ?? ??t ???c sai s? tuy?t ??i $\Delta I \leq 5 \times 10^{-9}$."	
+MI2010-5-2	MI2010-5	hard  	"Câu 5 (1.5d). a) S? d?ng công th?c (sai phân) trung tâm, tính g?n ?úng ??o hàm c?a hàm s? $y(x)$ t?i 1.20,1.40,1.60 trong b?ng giá tr?
+\begin{tabular}{l|l|l|l|l|l}
+x & 1.0 & 1.20 & 1.40 & 1.60 & 1.80 \\
+\hline y & 2.7183 & 4.7810 & 7.9482 & 12.6798 & 19.6009
+\end{tabular}
+b) S? d?ng công th?c 3 ?i?m c?n trái ?? tính x?p x? $y^{\prime}(1.0)$ và công th?c 3 ?i?m c?n ph?i ?? tính x?p x? $y^{\prime}(1.8)$."	
+MI2010-6-2	MI2010-6	hard  	"Câu 6 (1.5d). a) Dùng công th?c Euler ?n v?i b??c $h=0.1$ ?? tính x?p x? $y$ t?i $x=1.1,1.2$
+
+$$
+y^{\prime}(x)=(x+1) y \quad \text { v?i m?i } x \geq 1, y(1)=3 .
+$$
+
+b) Vi?t thu?t toán ?? tính x?p xi nghi?m c?a bài toán Cauchy 1 chi?u, b?c 1 trên ?o?n $\left[x_0, X\right]$ theo công th?c Euler c?i ti?n, v?i b??c $h$."	
+MI2020-1-1	MI2020-1	easy  	"Câu 1. (2,0 ?i?m) Trong m?t phép th? cho các s? ki?n $A$ và $B$ th?a m?n $P(A)=0,4$; $P(B)=0,5 ; P(\bar{A} B)=0,3$.
+(a) Tinh $P(\bar{A} \bar{B})$.
+(b) Tính $P(A \mid \bar{B})$."	
+MI2020-2-1	MI2020-2	medium  	"Câu 2. (2,0 ?i?m) S? l??t truy c?p vào trang web A trong kho?ng th?i gian b?t k? là bi?n ng?u nhiên có phân ph?i Poisson v?i trung bình $\lambda$ l??t truy c?p m?i giây. Xác su?t có ít nh?t m?t l??t truy c?p vào trang web A trong vòng 2 giây là 0,4512 .
+(a) Tìm tham s? $\lambda$.
+(b) Tính xác su?t trang web A có ít nh?t m?t l??t truy c?p trong vòng 5 giây t?i."	
+MI2020-3-1	MI2020-3	medium  	"Câu 3. (2,0 ?i?m) Hàm m?t ?? xác suât ??ng th?i c?a hai bi?n ng?u nhiên $X$ và $Y$ là
+
+$$
+f_{X, Y}(x, y)= \begin{cases}k x y^2, & \text { n?u } 0<x<1,0<y<1 \\ 0, & \text { n?u trái l?i. }\end{cases}
+$$
+
+(a) Tìm h?ng s? $k$.
+(b) Tìm $f_Y(y)$, hàm m?t ?? xác su?t biên c?a $Y$; t? ?ó tính $E(X \mid Y=y)$, k? v?ng có ?i?u ki?n c?a $X$ v?i ?i?u ki?n $Y=y, 0<y<1$."	
+MI2020-4-1	MI2020-4	easy  	"Câu 4. (2,0 ?i?m) Gi? s? tu?i th? (??n v?: gi?) c?a m?t lo?i bóng ?èn là bi?n ng?u nhiên có phân ph?i chu?n v?i ?? l?ch chu?n là 10 gi?. Quan sát tu?i th? c?a 24 bóng ?èn lo?i này, thu ???c k?t qu? (gi?):
+
+$$
+\begin{aligned}
+& 2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014, \\
+& 2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025 .
+\end{aligned}
+$$
+
+(a) Xây d?ng kho?ng tin c?y ??i x?ng $99 \%$ cho tu?i th? trung bình c?a lo?i bóng ?èn nói trên.
+(b) N?u mu?n sai s? c?a kho?ng tin c?y ??i x?ng $95 \%$ cho tu?i th? trung bình c?a lo?i bóng ?èn này không l?n h?n 2 gi? thì c?n m?t m?u kích th??c bao nhiêu?"	
+MI2020-5-1	MI2020-5	hard  	"Câu 5. (2,0 ?i?m) Quan sát hai m?u ng?u nhiên ??c l?p kích th??c $n_1=16$ và $n_2=13$ t? hai t?ng th? có phân ph?i chu?n, $X_i \sim \mathcal{N}\left(\mu_i, \sigma_i^2\right), i=1,2$, v?i ph??ng sai b?ng nhau ta thu ???c k?t qu? sau:
+\begin{tabular}{lcc} 
+& T?ng th? 1 & T?ng th? 2 \\
+\hline Trung bình m?u & 34,6 & 32,2 \\
+Ph??ng sai m?u hi?u ch?nh & 5,8 & 5,9
+\end{tabular}
+(a) Li?u có th? k?t lu?n k? v?ng c?a t?ng th? 1 cao h?n c?a t?ng th? 2 hay không v?i m?c ý ngh?a 0,01 ?
+(b) Tính $P\left(X_2>34,63\right)$."	
+MI2020-1-2	MI2020-1	easy  	"Câu 1. (2,0 ?i?m) Trong m?t phép th? cho các s? ki?n $A$ và $B$ th?a mãn $P(A)=0,5$; $P(B)=0,4 ; P(\bar{A} B)=0,3$.
+(a) Tính $P(\bar{A} \bar{B})$.
+(b) Tính $P(A \mid \bar{B})$."	
+MI2020-2-2	MI2020-2	medium  	"Câu 2. (2,0 ?i?m) S? l??t truy c?p vào m?t trang web A trong kho?ng th?i gian b?t k? là bi?n ng?u nhiên có phân ph?i Poisson v?i trung bình $\lambda$ l??t truy c?p m?i giây. Xác su?t có ít nh?t m?t l??t truy c?p vào trang web A trong vòng 3 giây là 0,59343 .
+(a) Tìm tham s? $\lambda$.
+(b) Tính xác suât trang web A có ít nh?t m?t l??t truy c?p trong vòng 5 giây t?i."	
+MI2020-3-2	MI2020-3	medium  	"Câu 3. (2,0 ?i?m) Hàm m?t ?? xác su?t ??ng th?i c?a hai bi?n ng?u nhiên $X$ và $Y$ là
+
+$$
+f_{X, Y}(x, y)= \begin{cases}k x^2 y, & \text { n?u } 0<x<1,0<y<1, \\ 0, & \text { n?u trái l?i. }\end{cases}
+$$
+
+(a) Tìm h?ng s? $k$.
+(b) Tìm $f_X(x)$, hàm m?t ?? xác su?t biên c?a $X$; t? ?ó tính $E(Y \mid X=x)$, k? v?ng có ?i?u ki?n c?a $Y$ v?i ?i?u ki?n $X=x, 0<x<1$."	
+MI2020-4-2	MI2020-4	easy  	"Câu 4. (2,0 ?i?m) Gi? s? tu?i th? (??n v?: gi?) c?a m?t lo?i bóng ?èn là bi?n ng?u nhiên có phân ph?i chu?n v?i ?? l?ch chu?n là 10 gi?. Quan sát tu?i th? c?a 24 bóng ?èn lo?i này, thu ???c k?t qu? (gi?):
+
+$$
+\begin{aligned}
+& 2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024, \\
+& 2024,2025,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035 .
+\end{aligned}
+$$
+
+(a) Xây d?ng kho?ng tin c?y ??i x?ng $99 \%$ cho tu?i th? trung bình c?a lo?i bóng ?èn nói trên.
+(b) N?u mu?n sai s? c?a kho?ng tin c?y ??i x?ng $95 \%$ cho tu?i th? trung bình c?a lo?i bóng ?èn này không quá 2 gi? thì c?n m?t m?u kích th??c bao nhiêu?"	
+MI2020-5-2	MI2020-5	hard  	"Câu 5. (2,0 ?i?m) Quan sát hai m?u ng?u nhiên ??c l?p kích th??c $n_1=16$ và $n_2=13$ t? hai t?ng th? có phân ph?i chu?n, $X_i \sim \mathcal{N}\left(\mu_i, \sigma_i^2\right), i=1,2$, v?i ph??ng sai b?ng nhau ta thu ???c k?t qu? sau:
+\begin{tabular}{lcc} 
+& T?ng th? 1 & T?ng th? 2 \\
+\hline Trung bình m?u & 34,5 & 32,2 \\
+Ph??ng sai m?u hi?u ch?nh & 5,7 & 5,9
+\end{tabular}
+(a) Li?u có th? k?t lu?n k? v?ng c?a t?ng th? 1 cao h?n c?a t?ng th? 2 hay không v?i m?c ý ngh?a 0,01 .
+(b) Tính $P\left(X_1>36,89\right)$."	
+MI2020E-1-1	MI2020E-1	easy  	"Question 1 (2.0 points) Let $A$ and $B$ be two events such that $P(A)=0.4 ; P(B)=0.5$; $P(\bar{A} B)=0.3$.
+(a) Find $P(\bar{A} \bar{B})$.
+(b) Find $P(A \mid \bar{B})$."	
+MI2020E-2-1	MI2020E-2	medium  	"Question 2 (2.0 points) The number of messages sent to a computer bulletin board is a Poisson random variable with a mean of $\lambda$ messages per hour. The probability that at least one message is received in two hours is 0.4512 .
+(a) Find the parameter $\lambda$.
+(b) What is the probability that at least one message is received in 5 hours?"	
+MI2020E-3-1	MI2020E-3	medium  	"Question 3 (2.0 points) The joint probability density function of two random variables $X$ and $Y$ is
+
+$$
+f_{X, Y}(x, y)= \begin{cases}k x y^2, & \text { if } 0<x<1,0<y<1 \\ 0, & \text { otherwise }\end{cases}
+$$
+
+(a) Find the constant $k$.
+(b) Find $E(X \mid Y=y), 0<y<1$."	
+MI2020E-4-1	MI2020E-4	easy  	"Question 4 (2.0 points) The life in hours of a light bulb is known to be normally distributed $\mathcal{N}\left(\mu, \sigma^2\right)$ with $\sigma=10$ hours. Take a random sample of 24 similar bulbs and obtain the data (hours)
+
+$$
+\begin{aligned}
+& 2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014 \text {, } \\
+& 2014 \text {, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025. }
+\end{aligned}
+$$
+
+(a) Construct a $99 \%$ two-sided confidence interval on the mean life.
+(b) Suppose that we want to be $95 \%$ confident that the error in estimating the mean life is less than 3 hours, what sample size should be used?"	
+MI2020E-5-1	MI2020E-5	hard  	"Question 5 (2.0 points) Independent random samples of $n_1=13$ and $n_2=16$ observations were selected from two normal populations, $X_1 \sim \mathcal{N}\left(\mu_1 ; \sigma_1^2\right)$ and $X_2 \sim \mathcal{N}\left(\mu_2 ; \sigma_2^2\right)$, with $\sigma_1^2=\sigma_2^2$ :
+\begin{tabular}{lcc} 
+& Population 1 & Population 2 \\
+\hline Sample Mean & 34.6 & 32.2 \\
+Sample Variance & 5.8 & 5.9
+\end{tabular}
+(a) Can we conclude that population 1's expectations are higher than population 2's expectations. Use a 0.01 level of significance.
+(b) Find $P\left(X_2>34.63\right)$."	
+MI2020E-1-2	MI2020E-1	easy  	"Question 1 (2.0 points) Let $A$ and $B$ be two events such that $P(A)=0.5 ; P(B)=0.4$; $P(\bar{A} B)=0.3$.
+(a) Find $P(\bar{A} \bar{B})$.
+(b) Find $P(A \mid \bar{B})$."	
+MI2020E-2-2	MI2020E-2	medium  	"Question 2 (2.0 points) The number of messages sent to a computer bulletin board is a Poisson random variable with a mean of $\lambda$ messages per hour. The probability that at least one message is received in three hours is 0.59343 .
+(a) Find the parameter $\lambda$.
+(b) What is the probability that at least one message is received in 5 hours?"	
+MI2020E-3-2	MI2020E-3	medium  	"Question 3 (2.0 points) The joint probability density function of two random variables $X$ and $Y$ is
+
+$$
+f_{X, Y}(x, y)= \begin{cases}k x^2 y, & \text { if } 0<x<1,0<y<1, \\ 0, & \text { otherwise } .\end{cases}
+$$
+
+(a) Find the constant $k$.
+(b) Find $E(Y \mid X=x), 0<x<1$."	
+MI2020E-4-2	MI2020E-4	easy  	"Question 4 ( 2.0 points) The life in hours of a light bulb is known to be normally distributed $\mathcal{N}\left(\mu, \sigma^2\right)$ with $\sigma=10$ hours. Take a random sample of 24 similar bulbs and obtain the data (hours)
+
+$$
+\begin{aligned}
+& 2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024, \\
+& 2024,2025,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035 .
+\end{aligned}
+$$
+
+(a) Construct a 99\% two-sided confidence interval on the mean life.
+(b) Suppose that we want to be $95 \%$ confident that the error in estimating the mean life is less than 3 hours, what sample size should be used?"	
+MI2020E-5-2	MI2020E-5	hard  	"Question 5 (2.0 points) Independent random samples of $n_1=13$ and $n_2=16$ observations were selected from two normal populations, $X_1 \sim \mathcal{N}\left(\mu_1 ; \sigma_1^2\right)$ and $X_2 \sim \mathcal{N}\left(\mu_2 ; \sigma_2^2\right)$, with $\sigma_1^2=\sigma_2^2$ :
+\begin{tabular}{lcc} 
+& Population 1 & Population 2 \\
+\hline Sample Mean & 34.5 & 32.2 \\
+Sample Variance & 5.7 & 5.9
+\end{tabular}
+(a) Can we conclude that population 1's expectations are higher than population 2's expectations. Use a 0.01 level of significance.
+(b) Find $P\left(X_1>36.89\right)$."	
+MI2021-2-1	MI2021-2	medium  	"Câu 1. (2,5 ?i?m) T?i m?t nhà máy, h? th?ng phun n??c t? ??ng ???c liên k?t v?i h? th?ng báo cháy t? d?ng. Gi? s? xác su?t h? th?ng phun n??c t? ??ng b? h?ng là 0,03 ; xác suât h? th?ng báo cháy t? ??ng b? h?ng là 0,05 và xác suât ?? c? hai h? th?ng b? h?ng cùng lúc là 0,02 .
+(a) Tính xác su?t ?? h? th?ng báo cháy t? ??ng b? h?ng còn h? th?ng phun n??c t? ??ng v?n ho?t ??ng bình th??ng.
+(b) Tính xác su?t ?? có ít nh?t m?t h? th?ng ho?t ??ng bình th??ng.
+(c) Bi?t h? th?ng phun n??c t? ??ng b? h?ng. Tính xác su?t ?? h? th?ng báo cháy t? ??ng ho?t d?ng bình th??ng."	
+MI2021-3-1	MI2021-3	medium  	"Câu 2. (2,5 ?i?m) Có hai ki?n hàng. Ki?n th? nh?t có 4 s?n ph?m t?t và 3 s?n ph?m x?u. Ki?n th? hai có 3 s?n ph?m t?t và 2 s?n ph?m x?u. L?y ng?u nhiên t? ki?n th? nh?t ra 2 s?n ph?m và t? ki?n th? hai ra 1 s?n ph?m. G?i $X$ là bi?n ng?u nhiên ch? s? s?n ph?m t?t trong 3 s?n ph?m l?y ra.
+(a) Hãy l?p b?ng phân ph?i xác su?t c?a $X$.
+(b) Tính k? v?ng và ph??ng sai c?a bi?n ng?u nhiên $Y=1-2 X$."	
+MI2021-4-1	MI2021-4	easy  	"Câu 3. (2,0 ?i?m) Gi? s? tr?ng l??ng t?p ch?t (d?n v?: gam) trong m?t s?n ph?m là bi?n ng?u nhiên $Z$ có phân ph?i chu?n. M?t m?u ng?u nhiên g?m 100 s?n ph?m ???c ti?n hành ki?m tra và th?y l??ng t?p ch?t nh? sau:
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline$Z$ (gam) & $(26-27)$ & {$[27-28)$} & {$[28-29)$} & {$[29-30)$} & {$[30-31)$} & {$[31-32)$} \\
+\hline S? s?n ph?m & 6 & 10 & 24 & 30 & 18 & 12 \\
+\hline
+\end{tabular}
+(a) Tìm kho?ng tin c?y cho tr?ng l??ng t?p ch?t trung bình c?a s?n ph?m nói trên v?i ?? tin c?y $95 \%$.
+(b) M?t s?n ph?m có tr?ng l??ng t?p ch?t t? 30 gam tr? lên thì s? b? lo?i. Hãy tìm kho?ng tin c?y cho t? l? s?n ph?m b? lo?i v?i ?? tin c?y $99 \%$."	
+MI2021-5-1	MI2021-5	hard  	"Câu 4. (3,0 ?i?m) Kh?o sát v? vi?c tham gia các môn th? thao t?i m?t tr??ng h?c ng??i ta th?y, trong s? 150 h?c sinh nam và 200 h?c sinh n? d??c kh?o sát có 18 h?c sinh nam và 30 h?c sinh n? ch?i ít nh?t m?t môn th? thao.
+(a) V?i m?c ý ngh?a $5 \%$, có th? cho r?ng t? l? h?c sinh nam ch?i ít nh?t m?t môn th? thao là cao h?n t? l? này ? h?c sinh n? hay không?
+(b) V?i m?c ý ngh?a $5 \%$, có th? cho r?ng t? l? h?c sinh nam trong thành ph? có ch?i ít nh?t m?t môn th? thao là $10 \%$ hay không?"	
+MI2021-2-2	MI2021-2	medium  	"Câu 1. (2,5 ?i?m) T?i m?t nhà máy, h? th?ng phun n??c t? ??ng ???c liên k?t v?i h? th?ng báo cháy t? ??ng. Gi? s? xác su?t h? th?ng phun n??c t? d?ng b? h?ng là 0,05 ; xác su?t h? th?ng báo cháy t? ??ng b? h?ng là 0,03 và xác su?t ?? c? hai h? th?ng b? h?ng cùng lúc là 0,01 .
+(a) Tính xác su?t ?? h? th?ng báo cháy t? d?ng b? h?ng còn h? th?ng phun n??c t? ??ng v?n ho?t ??ng bình th??ng.
+(b) Tính xác su?t ?? có ít nh?t m?t h? th?ng ho?t ??ng bình th??ng.
+(c) Bi?t h? th?ng phun n??c t? ??ng b? h?ng. Tính xác su?t ?? h? th?ng báo cháy t? d?ng ho?t ??ng bình th??ng."	
+MI2021-3-2	MI2021-3	medium  	"Câu 2. (2,5 ?i?m) Có hai ki?n hàng. Ki?n th? nh?t có 4 s?n ph?m t?t và 3 s?n ph?m x?u. Ki?n th? hai có 2 s?n ph?m t?t và 3 s?n ph?m x?u. L?y ng?u nhiên t? ki?n th? nh?t ra 2 s?n ph?m và t? ki?n th? hai ra 1 s?n ph?m. G?i $X$ là bi?n ng?u nhiên ch? s? s?n ph?m t?t trong 3 s?n ph?m l?y ra.
+(a) Hãy l?p b?ng phân ph?i xác suât c?a $X$.
+(b) Tính k? v?ng và ph??ng sai c?a bi?n ng?u nhiên $Y=1-2 X$."	
+MI2021-4-2	MI2021-4	easy  	"Câu 3. (2,0 ?i?m) Gi? s? tr?ng l??ng t?p ch?t (??n v?: gam) trong m?t s?n ph?m là bi?n ng?u nhiên $Z$ có phân ph?i chu?n. M?t m?u ng?u nhiên g?m 100 s?n ph?m d??c ti?n hành ki?m tra và th?y l??ng t?p ch?t nh? sau:
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline$Z$ (gam) & {$[16-17)$} & {$[17-18)$} & {$[18-19)$} & $(19-20)$ & {$[20-21)$} & {$[21-22)$} \\
+\hline S? s?n ph?m & 6 & 10 & 24 & 30 & 18 & 12 \\
+\hline
+\end{tabular}
+(a) Tìm kho?ng tin c?y cho tr?ng l??ng t?p ch?t trung bình c?a s?n ph?m nói trên v?i ?? tin c?y $95 \%$.
+(b) M?t s?n ph?m có tr?ng l??ng t?p ch?t t? 20 gam tr? lên thì s? b? lo?i. Hãy tìm kho?ng tin c?y cho t? l? s?n ph?m b? lo?i v?i ?? tin c?y $95 \%$."	
+MI2021-5-2	MI2021-5	hard  	"Câu 4. (3,0 ?i?m) Kh?o sát v? vi?c tham gia các môn th? thao t?i m?t tr??ng h?c ng??i ta th?y, trong s? 300 h?c sinh nam và 400 h?c sinh n? ???c kh?o sát có 66 h?c sinh nam và 91 h?c sinh n? ch?i ít nh?t m?t môn th? thao.
+(a) V?i m?c ý ngh?a $1 \%$, có th? cho r?ng t? l? h?c sinh nam ch?i ít nh?t m?t môn th? thao là th?p h?n t? l? này ? h?c sinh n? hay không?
+(b) V?i m?c ý nghîa $1 \%$, có th? cho r?ng t? l? h?c sinh nam trong thành ph? có ch?i ít nh?t m?t môn th? thao là $20 \%$ hay không?"	
+MI2023E-1-1	MI2023E-1	easy  	"Bài 1: (1,5 ?i?m) Gi? s? các ""h?p ?en"" c?a máy bay ???c s?n xu?t b?i 3 công ty: AirCorp, BigSkies và CharterUS - v?i t? l? l?n l??t là $55 \%, 25 \%$ và $20 \%$. Bi?t r?ng t? l? h?p ?en b? l?i do AirCorp, BigSkies và CharterUS s?n xu?t l?n l??t là $4 \%, 6 \%$ và $9 \%$. M?t h?p ?en ???c ch?n ng?u nhiên. Bi?t r?ng nó ???c phát hi?n là b? l?i, hãy tính xác su?t nó do công ty AirCorp s?n xu?t."	
+MI2023E-2-1	MI2023E-2	medium  	"Bài 2: (2,0 ?i?m) Cho ( $\mathrm{X}, \mathrm{Y}$ ) là véct? ng?u nhiên liên t?c v?i hàm kh?i xác su?t ??ng th?i cho b?i nh? sau:
+
+$$
+f(x, y)=\left\{\begin{array}{l}
+\frac{1}{18} x y \text { n?u } x=1 ; 2 ; 3 \text { và } y=1 ; 2 \\
+0 \text { n?u trái l?i. }
+\end{array}\right.
+$$
+
+
+Hãy tính h? s? t??ng quan gi?a X và Y . Hai bi?n X và Y có ??c l?p không?"	
+MI2023E-3-1	MI2023E-3	medium  	"Bài 3: (2,0 ?i?m) Các công ty b?o hi?m th??ng quan tâm ??n t? l? ph?n tr?m ng??i lái xe luôn th?t dây an toàn tr??c khi lái xe. H? kh?o sát ng?u nhiên 400 tài x? và phát hi?n ra r?ng 320 ng??i kh?ng ??nh h? luôn th?t dây an toàn.
+a) Hãy tìm ??c l??ng ?i?m c?a t? l? ( $p$ ) các lái xe luôn th?t dây an toàn b?ng ph??ng pháp ??c l??ng h?p lý c?c ??i.
+b) Tìm kho?ng ??c l??ng ??i x?ng cho t? l? $p$ v?i ?? tin c?y $90 \%$."	
+MI2023E-4-1	MI2023E-4	easy  	"Bài 4: (2,0 ?i?m) Hàm l??ng oxy hòa tan trong n??c sông ???c ?o ?? xác ??nh xem có ?? oxy trong n??c ?? h? tr? ??i s?ng th?y sinh hay không. M?t thanh tra môi tr??ng nghi ng? r?ng m?t c?ng ??ng ven sông ?ang th?i m?t l??ng n??c th?i ?ã qua x? lý vào sông. Ông ?ã l?y ng?u nhiên 10 m?u n??c sông ? v? trí phía trên th? tr?n và 10 m?u khác ? phía d??i th? tr?n. Ch? s? oxy hòa tan (tính b?ng ph?n tri?u) ???c ghi l?i nh? sau:
+
+Phía d??i: 5,0; 4,7; 4,9; 4,8; 4,9; 4,8; 4,7; 5,0; 4,8; 4,8
+Phía trên: 4,$8 ; 5,2 ; 5,0 ; 4,9 ; 5,1 ; 5,1 ; 4,9 ; 4,9 ; 5,4 ; 5,0$
+D? li?u có cung c?p ?? b?ng ch?ng ?? ch? ra r?ng hàm l??ng oxy trung bình bên d??i th? tr?n th?p h?n hàm l??ng oxy trung bình ? phía trên th? tr?n ? m?c ý ngh?a $5 \%$ hay không? Gi? s? hàm l??ng oxy c?a n??c sông bên d??i và bên trên th? tr?n có phân ph?i chu?n v?i ph??ng sai b?ng nhau."	
+MI2023E-5-1	MI2023E-5	hard  	"Bài 5: (2,5 ?i?m) M?t nghiên c?u v? m?i quan h? gi?a l??ng ???ng chuy?n hóa $(Y)$ trong m?t quy trình nh?t ??nh ? các m?c nhi?t ?? khác nhau $(X)$. D? li?u ???c mã hóa và ghi l?i nh? sau:
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline$X$ & 1,0 & 1,1 & 1,2 & 1,3 & 1,4 & 1,5 & 1,6 & 1,7 & 1,8 & 1,9 \\
+\hline$Y$ & 8,1 & 7,8 & 8,5 & 9,8 & 9,5 & 8,9 & 8,6 & 10,2 & 9,3 & 9,2 \\
+\hline
+\end{tabular}
+a) Tìm ph??ng trình ???ng h?i quy th?c nghi?m c?a Y theo X .
+b) Hãy ki?m ??nh v? h? s? góc c?a ???ng h?i quy ?? xem có m?i quan h? tuy?n tính d??ng gi?a $Y$ và X ? m?c ý ngh?a $5 \%$ hay không."	
+MI2023E-1-2	MI2023E-1	easy  	"Bài 1: (1,5 ?i?m) Gi? s? các ""h?p ?en"" c?a máy bay ???c s?n xu?t b?i 3 công ty: AirCorp, BigSkies và CharterUS - v?i t? l? l?n l??t là $45 \%, 25 \%$ và $30 \%$. Bi?t r?ng t? l? h?p ?en b? l?i do AirCorp, BigSkies và CharterUS s?n xu?t l?n l??t là $4 \%, 6 \%$ và $8 \%$. M?t h?p ?en ???c ch?n ng?u nhiên. Bi?t r?ng nó ???c phát hi?n là b? l?i, hãy tính xác su?t nó do công ty BigSkies s?n xu?t."	
+MI2023E-2-2	MI2023E-2	medium  	"Bài 2: (2.0 ?i?m) Cho ( $\mathrm{X}, \mathrm{Y}$ ) là véct? ng?u nhiên liên t?c v?i hàm kh?i xác su?t ??ng th?i cho b?i nhur sau:
+
+$$
+f(x, y)=\left\{\begin{array}{l}
+\frac{1}{18} x y \text { n?u } x=1 ; 2 \text { và } y=1 ; 2 ; 3 \\
+0 \text { n?u trái l?i. }
+\end{array}\right.
+$$
+
+
+Hãy tính h? s? t??ng quan gi?a $X$ và $Y$. Hai bi?n $X$ và $Y$ có ??c l?p không?"	
+MI2023E-3-2	MI2023E-3	medium  	"Bài 3: (2,0 ?i?m) Các công ty b?o hi?m th??ng quan tâm ??n t? l? ph?n tr?m ng??i lái xe luôn th?t dây an toàn tr??c khi lái xe. H? kh?o sát ng?u nhiên 500 tài x? và phát hi?n ra r?ng 420 ng??i kh?ng ??nh h? luôn th?t dây an toàn.
+a) Hãy tìm ??c l??ng ?i?m c?a t? l? (p) các lái xe luôn th?t dây an toàn b?ng ph??ng pháp ??c l??ng h?p lý c?c ??i.
+b) Tìm kho?ng ??c l??ng ??i x?ng cho t? l? $p$ v?i ?? tin c?y $95 \%$."	
+MI2023E-4-2	MI2023E-4	easy  	"Bài 4: (2,0 ?i?m) Hàm l??ng oxy hòa tan trong n??c sông ???c ?o ?? xác ??nh xem có ?? oxy trong n??c ?? h? tr? ??i s?ng th?y sinh hay không. M?t thanh tra môi tr??ng nghi ng? r?ng m?t c?ng ??ng ven sông ?ang th?i m?t l??ng n??c th?i ?ã qua x? lý vào sông. Ông ?ã l?y ng?u nhiên 10 m?u n??c sông ? v? trí phía trên th? tr?n và 10 m?u khác ? phía d??i th? tr?n. Ch? s? oxy hòa tan (tính b?ng ph?n tri?u) ???c ghi l?i nh? sau:
+
+Phía d??i: 5,$1 ; 4,8 ; 5,0 ; 4,9 ; 5,0 ; 4,9 ; 4,8 ; 5,1 ; 4,9 ; 4,9$
+Phía trên: 4,$9 ; 5,3 ; 5,1 ; 5,0 ; 5,2 ; 5,2 ; 5,0 ; 5,0 ; 5,5 ; 5,1$
+D? li?u có cung c?p ?? b?ng ch?ng ?? ch? ra r?ng hàm l??ng oxy trung bình bên d??i th? tr?n th?p h?n hàm l??ng oxy trung bình ? phía trên th? tr?n ? m?c ý ngh?a $5 \%$ hay không? Gi? s? hàm l??ng oxy c?a n??c sông bên d??i và bên trên th? tr?n có phân ph?i chu?n v?i ph??ng sai b?ng nhau."	
+MI2023E-5-2	MI2023E-5	hard  	"Bài 5: (2,5 ?i?m) M?t nghiên c?u v? m?i quan h? gi?a l??ng ???ng chuy?n hóa $(Y)$ trong m?t quy trình nh?t ??nh ? các m?c nhi?t ?? khác nhau $(X)$. D? li?u ???c mã hóa và ghi l?i nh? sau:
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline$X$ & 1,1 & 1,2 & 1,3 & 1,4 & 1,5 & 1,6 & 1,7 & 1,8 & 1,9 & 2,0 \\
+\hline$Y$ & 8,0 & 7,7 & 8,4 & 9,7 & 9,4 & 8,8 & 8,5 & 10,1 & 9,2 & 9,1 \\
+\hline
+\end{tabular}
+a) Tìm ph??ng trình ???ng h?i quy th?c nghi?m c?a Y theo X .
+b) Hãy ki?m ??nh v? h? s? góc c?a ???ng h?i quy ?? xem có m?i quan h? tuy?n tính d??ng gi?a Y và $X$ ? m?c ý ngh?a $5 \%$ hay không."	
+MI2034-1-1	MI2034-1	easy  	"Bài 1: (2,0 ?i?m) Gi? s? các ""h?p ?en"" c?a máy bay ???c s?n xu?t b?i 3 công ty: AirCorp, BigSkies và CharterUS - v?i t? l? l?n l??t là $55 \%, 25 \%$ và $20 \%$. Bi?t r?ng t? l? h?p ?en b? l?i do AirCorp, BigSkies và CharterUS s?n xu?t l?n l??t là $4 \%, 6 \%$ và $9 \%$. M?t h?p ?en ???c ch?n ng?u nhiên. Bi?t r?ng nó ???c phát hi?n là b? l?i, nhi?u kh? n?ng nh?t nó do công ty nào s?n xu?t? T?i sao?"	
+MI2034-2-1	MI2034-2	medium  	"Bài 2: (2,0 ?i?m) Cho bi?n ng?u nhiên $X$ có phân ph?i m? v?i hàm m?t ?? xác su?t nh? sau:
+
+$$
+f(x)=\left\{\begin{array}{l}
+2 e^{-2 x} \text { n?u } x>0, \\
+0 \text { n?u trái l?i. }
+\end{array}\right.
+$$
+
+
+Xét bi?n ng?u nhiên $Y=-2 X+1$.
+a) Hãy tìm hàm phân ph?i xác su?t c?a $Y$.
+b) Hãy tính $E(Y)$."	
+MI2034-3-1	MI2034-3	medium  	"Bài 3: (2,0 ?i?m) Cho ( $\mathrm{X}, \mathrm{Y}$ ) là véct? ng?u nhiên liên t?c v?i hàm m?t ?? xác su?t ??ng th?i cho b?i nh? sau:
+
+$$
+f(x, y)=\left\{\begin{array}{l}
+24 x y \text { n?u } x>0, y>0 \text { và } x+y<1, \\
+0 \text { n?u trái l?i. }
+\end{array}\right.
+$$
+
+
+Hãy tính h? s? t??ng quan gi?a X và Y . Hai bi?n X và Y có ??c l?p không?"	
+MI2034-4-1	MI2034-4	easy  	"Bài 4: (2,0 ?i?m) Các công ty b?o hi?m th??ng quan tâm ??n t? l? ph?n tr?m ng??i laí xe luôn th?t dây an toàn tr??c khi lái xe. H? kh?o sát ng?u nhiên 400 tài x? và phát hi?n ra r?ng 320 ng??i kh?ng ??nh h? luôn th?t dây an toàn.
+a) Hãy tìm kho?ng ??c l??ng ??i x?ng cho t? l? (p) các lái xe luôn th?t dây an toàn v?i ?? tin c?y $90 \%$.
+b) N?u sai s? c?a kho?ng ??c l??ng cho t? l? $p$ t?ng $1 \%$ thì ?? tin c?y t?ng hay gi?m bao nhiêu?"	
+MI2034-5-1	MI2034-5	hard  	"Bài 5: (2,0 ?i?m) Hàm l??ng oxy hòa tan trong n??c sông ???c ?o ?? xác ??nh xem có ?? oxy trong n??c ?? h? tr? ??i s?ng th?y sinh hay không. M?t thanh tra môi tr??ng nghi ng? r?ng m?t c?ng ??ng ven sông ?ang th?i m?t l??ng n??c th?i ?ã qua x? lý vào sông. Ông ?ã l?y ng?u nhiên 10 m?u n??c sông ? v? trí phía trên th? tr?n và 10 m?u khác ? phía d??i th? tr?n. Ch? s? oxy hòa tan (tính b?ng ph?n tri?u) ???c ghi l?i nh? sau:
+
+Phía d??i: 5,$0 ; 4,7 ; 4,9 ; 4,8 ; 4,9 ; 4,8 ; 4,7 ; 5,0 ; 4,8 ; 4,8$
+Phía trên: 4,$8 ; 5,2 ; 5,0 ; 4,9 ; 5,1 ; 5,1 ; 4,9 ; 4,9 ; 5,4 ; 5,0$
+D? li?u có cung c?p ?? b?ng ch?ng ?? ch? ra r?ng hàm l??ng oxy trung bình bên d??i th? tr?n th?p h?n hàm l??ng oxy trung bình ? phía trên th? tr?n ? m?c ý ngh?a $5 \%$ hay không? Gi? s? hàm l??ng oxy c?a n??c sông bên d??i và bên trên th? tr?n có phân ph?i chu?n v?i ph??ng sai b?ng nhau."	
+MI2034-1-2	MI2034-1	easy  	"Bài 1: (2,0 ?i?m) Gi? s? các ""h?p ?en"" c?a máy bay ???c s?n xu?t b?i 3 công ty: AirCorp, BigSkies và CharterUS - v?i t? l? l?n l??t là $45 \% ; 25 \%$ và $30 \%$. Bi?t r?ng t? l? h?p ?en b? l?i do AirCorp, BigSkies và CharterUS s?n xu?t l?n l??t là $4 \%, 6 \%$ và $8 \%$. M?t h?p ?en ???c ch?n ng?u nhiên. Bi?t r?ng nó ???c phát hi?n là b? l?i, nhi?u kh? n?ng nh?t nó do công ty nào s?n xuât? T?i sao?"	
+MI2034-2-2	MI2034-2	medium  	"Bài 2: (2,0 ?i?m) Cho bi?n ng?u nhiên $X$ có phân ph?i m? v?i hàm m?t ?? xác su?t nh? sau:
+
+$$
+f(x)=\left\{\begin{array}{l}
+3 e^{-3 x} \text { n?u } x>0 \\
+0 \text { n?u trái l?i. }
+\end{array}\right.
+$$
+
+
+Xét bi?n ng?u nhiên $Y=-3 X+1$.
+a) Hãy tìm hàm phân ph?i xác su?t c?a $Y$.
+b) Hãy tính $E(Y)$."	
+MI2034-3-2	MI2034-3	medium  	"Bài 3: (2,0 ?i?m) Cho (X, Y) là véct? ng?u nhiên liên t?c v?i hàm m?t ?? xác su?t ??ng th?i cho b?i nh? sau:
+
+$$
+f(x, y)=\left\{\begin{array}{l}
+\frac{3}{2} x y \text { n?u } x>0, y>0 \text { và } x+y<2 \\
+0 \text { n?u trái l?i. }
+\end{array}\right.
+$$
+
+
+Hãy tính h? s? t??ng quan gi?a X và Y . Hai bi?n X và Y có ??c l?p không?:"	
+MI2034-4-2	MI2034-4	easy  	"Bài 4: (2,0 ?ièm) Các công ty b?o hi?m th??ng quan tâm ??n t? l? ph?n tr?m ng??i lái xe luôn th?t dây an toàn tr??c khi lái xe. H? kh?o sát ng?u nhiên 500 tài x? và phát hi?n ra r?ng 420 ng??i kh?ng ??nh h? luôn th?t dây an toàn.
+a) Hãy tìm kho?ng ??c l??ng ??i x?ng cho t? l? (p) các lái xe luôn th?t dây an toàn v?i ?? tin c?y $95 \%$.
+b) N?u sai s? c?a kho?ng ??c l??ng cho t? l? p gi?m $1 \%$ thì ?? tin c?y t?ng hay giàm bao nhiêu?"	
+MI2034-5-2	MI2034-5	hard  	"Bài 5: (2,0 ?i?m) Hàm l??ng oxy hòa tan trong n??c sông ???c ?o ?? xác ??nh xem có ?? oxy trong n??c ?? h? tr? ??i s?ng th?y sinh hay không. M?t thanh tra môi tr??ng nghi ng? r?ng m?t c?ng ??ng ven sông ?ang th?i m?t l??ng n??c th?i ?ã qua x? lý vào sông. Ông ?ã l?y ng?u nhiên 10 m?u n??c sông ? v? trí phía trên th? tr?n và 10 m?u khác ? phía d??i th? tr?n. Chi s? oxy hòa tan (tính b?ng ph?n tri?u) ???c ghi l?i nhu sau:
+
+Phía d??i: 5,$1 ; 4,8 ; 5,0 ; 4,9 ; 5,0 ; 4,9 ; 4,8 ; 5,1 ; 4,9 ; 4,9$
+Phía trên: 4,$9 ; 5,3 ; 5,1 ; 5,0 ; 5,2 ; 5,2 ; 5,0 ; 5,0 ; 5,5 ; 5,1$
+D? li?u có cung c?p ?? b?ng ch?ng ?? ch? ra r?ng hàm l??ng oxy trung bình bên d??i th? tr?n th?p h?n hàm l??ng oxy trung bình ? phía trên th? tr?n ? m?c ý ngh?a $5 \%$ hay không? Gi? s? hàm l??ng oxy c?a n??c sông bên d??i và bên trên th? tr?n có phân ph?i chu?n v?i ph??ng sai b?ng nhau."	
+MI2110-2-1	MI2110-2	medium  	"Câu 1. Cho h? ph??ng trình:
+
+$$
+\left\{\begin{aligned}
+9 x_1+3 x_2+48 x_3 & =45 \\
+12 x_1+x_2+2 x_3 & =-8 \\
+-2 x_1+28 x_2-4 x_3 & =54
+\end{aligned}\right.
+$$
+
+a) Gi?i h? ph??ng trình b?ng ph??ng pháp Gauss-Jordan.
+b) S? d?ng ph??ng pháp l?p ??n ?? tính ??n nghi?m g?n ?úng $X^{(2)}$ v?i x?p x? ??u $X^{(0)}=(0,2 ; 0,65 ; 0,67)^T$ và dánh giá sai s? c?a nghi?m g?n ?úng thu ???c theo công th?c sai s? qua hai x?p x? liên ti?p, s? d?ng chu?n hàng."	
+MI2110-3-1	MI2110-3	medium  	"Câu 2. Cho b?ng d? li?u sau:
+\begin{tabular}{|c|c|c|c|c|}
+\hline$x$ & 2 & 2,1 & 2,3 & 2,4 \\
+\hline$y$ & 13,2918 & 14,0274 & 15,5227 & 16,2876 \\
+\hline
+\end{tabular}
+a) Tính g?n ?úng $y(2,05)$ s? d?ng ?a th?c n?i suy Newton ti?n.
+b) Tìm hàm th?c nghi?m có d?ng $y=a x^2+b \sin x$ ?ng v?i b?ng s? trên."	
+MI2110-4-1	MI2110-4	easy  	"Câu 3. Tính g?n ?úng tích phân $I=\int_{-0,5}^{0,5} \frac{\cos ^3 x}{\sqrt{1+\cos 2 x}} d x$ b?ng công th?c Simpson v?i b??i l??i $h=0,125$."	
+MI2110-5-1	MI2110-5	hard  	"Câu 4.
+a) S? d?ng ngôn ng? l?p trình MATLAB ?? vi?t hàm Lagrange cho ph??ng pháp n?i suy Lagrange v?i d? li?u d?u vào g?m $x, y$ là các vector nh?n giá tr? th?c cùng kích th??c, ??u ra là vector $p$ l?u h? s? c?a ?a th?c n?i suy t??ng ?ng v?i b? d? li?u $\{x, y\}$.
+b) Vi?t các câu l?nh ? c?a s? l?nh s? d?ng hàm Lagrange xây d?ng ? câu a) ?? tìm ?a th?c n?i suy cho hàm d??i d?ng b?ng s? ? câu 2 .
+c) Có th? l?a ch?n nh?ng ki?u d? li?u phù h?p nào trong MATLAB ?? l?p trình ph??ng pháp n?i suy Lagrange? Ki?u d? li?u nào là t?i ?u nh?t v? th?i gian và t?c d? tính toán? Gi?i thích?"	
+MI2110-2-2	MI2110-2	medium  	"Câu 1. Cho h? ph??ng trình:
+
+$$
+\left\{\begin{aligned}
+-3 x_1+42 x_2-6 x_3 & =81 \\
+12 x_1+x_2+2 x_3 & =-8 \\
+6 x_1+2 x_2+32 x_3 & =30
+\end{aligned}\right.
+$$
+
+a) Gi?i h? ph??ng trình b?ng ph??ng pháp Gauss-Jordan.
+b) S? d?ng ph??ng pháp l?p ??n ?? tính ??n nghi?m g?n ?úng $X^{(2)}$ v?i x?p x? ??u $X^{(0)}=(0,2 ; 0,65 ; 0,67)^T$ và ?ánh giá sai s? c?a nghi?m g?n ?úng thu ???c theo công th?c sai s? qua hai x?p x? liên ti?p, s? d?ng chu?n hàng."	
+MI2110-3-2	MI2110-3	medium  	"Câu 2. Cho b?ng d? li?u sau:
+\begin{tabular}{|c|c|c|c|c|}
+\hline$x$ & 2,3 & 2,4 & 2,7 & 2,8 \\
+\hline$y$ & 22,2726 & 24,2240 & 30,7256 & 33,1129 \\
+\hline
+\end{tabular}
+a) Tínin y?n ?úng $y(2,85)$ s? d?ng da th?c n?i suy Newton lùi.
+b) Tìm hàm th?c nghi?m có d?ng $y=a \cos x-b x^2$ ?ng v?i b?ng s? trên."	
+MI2110-4-2	MI2110-4	easy  	"Câu 3. Tính g?n ?úng tích phân $I=\int_{-0,5}^{0,5} \frac{\cos ^2 x}{\sqrt{1+\sin 3 x}} d x$ b?ng công th?c hình thang v?i cách chia $[-0,5 ; 0,5]$ thành 8 do?n b?ng nhau."	
+MI2110-5-2	MI2110-5	hard  	"Câu 4.
+a) S? d?ng ngôn ng? l?p trình MATLAB d? vi?t hàm Lagrange cho ph??ng pháp n?i suy Lagrange v?i d? li?u d?u vào g?m $x, y$ là các vector nh?n giá tr? th?c cùng kích th??c, ??u ra là vector $p$ l?u h? s? c?a ?a th?c n?i suy t??ng ?ng v?i b? d? li?u $\{x, y\}$.
+b) Vi?t các câu l?nh ? c?a s? l?nh s? d?ng hàm Lagrange xây d?ng ? câu a) ?? tìm ?a th?c n?i suy cho hàm d??i d?ng b?ng s? ? câu 2 .
+c) Có th? l?a ch?n nh?ng ki?u d? li?u phù h?p nào trong MATLAB ?? l?p trình ph??ng pháp n?i suy Lagrange? Ki?u d? li?u nào là t?i ?u nh?t v? th?i gian và t?c ?? tính toán? Gi?i thích?"	
+MI3180-2-1	MI3180-2	medium  	"Câu 1: (2 ?i?m) T?i m?t nhà máy, h? th?ng phun n??c t? ??ng ???c liên k?t v?i h? th?ng báo ??ng ho? ho?n. Xác su?t h? th?ng phun n??c b? h?ng là 0,05 . Xác suât h? th?ng báo ??ng ho? ho?n b? h?ng là 0,1 . Xác su?t ?? c? hai h? th?ng cùng h?ng là 0,01 .
+(a) Tính xác su?t có ít nh?t m?t h? th?ng không b? h?ng.
+(b) Bi?t h? th?ng báo ??ng ho? ho?n không b? h?ng, tính xác suât h? th?ng phun n??c b? h?ng."	
+MI3180-3-1	MI3180-3	medium  	"Câu 2: (2 ?i?m) GI? s? bi?n ng?u nhiên liên t?c $X$ có hàm m?t ?? xác su?t:
+
+$$
+f_X(x)= \begin{cases}4 e^{-4 x}, & \text { n?u } x \geq 0 \\ 0, & \text { n?u } x<0\end{cases}
+$$
+
+
+??nh ngh?a bi?n ng?u nhiên $Y=[X]$ là s? nguyên l?n nh?t không v??t quá $X$ (ngh?a là $[x]=0$ n?u $0 \leq x<1,[x]=1$ néu $1 \leq x<2 \ldots)$.
+(a) Tinh $P(Y=1)$.
+(b) Tinh $E(2 Y-1)$."	
+MI3180-4-1	MI3180-4	easy  	"Câu 3: (3 ?i?m) M?t k? s? cho bi?t tr?ng l??ng t?p ch?t trong 1 s?n ph?m tuân theo lu?t phân ph?i chu?n. M?t m?u ng?u nhiên gôm 11 s?n ph?m ???c ti?n hành ki?m tra và th?y l??ng t?p ch?t nh? sau (d?n vi tính là gam):
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline 16,5 & 15,1, & 12,7 & 14,9 & 13,5 & 15,3 & 14,1 & 17,3 & 15,4 & 13,7 & 17,6 \\
+\hline
+\end{tabular}
+(a) Tìm kho?ng tin c?y cho tr?ng l??ng trung bình t?p ch?t c?a s?n ph?m v?i d? tin c?y $95 \%$.
+(b) V?i m?c ý ngh?a $5 \%$ có th? k?t lu?n ???c tr?ng l??ng trung bình t?p ch?t c?a s?n ph?m l?n h?n 14 gam hay không?"	
+MI3180-5-1	MI3180-5	hard  	"Câu 4: (3 ?i?m) Dùng ph??ng pháp quy ho?ch tr?c giao c?p m?t xây d?ng mô hình bi?u di?n m?i quan h? gi?a $Y$ và các bi?n ??u vào $Z_1, Z_2$ bi?t: $Y=\beta_0+\beta_1 X_1+\beta_2 X_2+\xi$, (1) v?i
+
+$$
+\left\{\begin{array}{l}
+4 \leq Z_1 \leq 8 \\
+14 \leq Z_2 \leq 22
+\end{array} \quad, X_i=\frac{Z_i-Z_i^0}{\Delta Z_i}, i=1,2\right.
+$$
+
+(a) Hoàn thi?n b?ng th?c nghi?m sau:
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline$N^0$ & $Z_1$ & $Z_2$ & $X_0$ & $X_1$ & $X_2$ & Y \\
+\hline 1 & 4 & 14 & + & & & 14,8 \\
+\hline 2 & 8 & 14 & + & & & 15,7 \\
+\hline 3 & 4 & 22 & + & & & 16,2 \\
+\hline 4 & 8 & 22 & + & & & 16,8 \\
+\hline
+\end{tabular}
+
+Làm $n_0=3$ thí nghi?m t?i tâm có $y_0^1=15,7 ; y_0^2=15,8 ; y_0^3=15,9$.
+(b) Xác ??nh các h? s? h?i quy c?a ph??ng trình (1).
+(c) Kiêm ??nh s? có ngh?a c?a các h? s? h?i quy v?i m?c ý nghia 0,05 .
+(d) Ki?m ??nh s? phù h?p c?a mô hình v?i m?c ý ngh?a 0,05 ."	
+MI3180-2-2	MI3180-2	medium  	"Câu 1: (2 ?i?m) T?i m?t nhà máy, h? th?ng phun n??c t? ??ng ???c liên k?t v?i h? th?ng báo ??ng ho? ho?n. Xác su?t h? th?ng phun n??c b? h?ng là 0,1 . Xác su?t h? th?ng báo ??ng ho? ho?n b? h?ng là 0,05 . Xác su?t ?? c? hai h? th?ng cùng h?ng là 0,01 .
+(a) Tính xác su?t có it nh?t m?t h? th?ng không b? h?ng.
+(b) Bi?t h? th?ng báo ??ng ho? ho?n không b? h?ng, tính xác su?t h? th?ng phun n??c b? h?ng."	
+MI3180-3-2	MI3180-3	medium  	"Câu 2: (2 ?i?m) Gl? s? bi?n ng?u nhiên liên t?c $X$ có hàm m?t ?? xác suât:
+
+$$
+f_X(x)= \begin{cases}2 e^{-2 x}, & \text { n?u } x \geq 0 \\ 0, & \text { n?u } x<0\end{cases}
+$$
+
+
+??nh ngh?a bi?n ng?u nhiên $Y=[X]$ là s? nguyên l?n nh?t kh?ng v??t quá $X$ (ngh?a là $[x]=0$ n?u $0 \leq x<1,[x]=1$ n?u $1 \leq x<2 \ldots$ ).
+(a) Tính $P(Y=0)$.
+(b) Tinh $E(2 Y+1)$."	
+MI3180-4-2	MI3180-4	easy  	"Câu 3: (3 ?i?m) M?t k? s? cho bi?t tr?ng l??ng t?p ch?t trong 1 s?n ph?m tuân theo lu?t phân ph?i chu?n. M?t m?u ngãu nhiên gôm 11 s?n ph?m ???c ti?n hành ki?m tra và th?y l??ng t?p ch?t nh? sau (d?n v? tính là gam):
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline 15,5 & 14,1, & 11,7 & 13,9 & 12,5 & 14,3 & 13,1 & 16,3 & 14,4 & 12,7 & 16,6 \\
+\hline
+\end{tabular}
+(a) Tìm kho?ng tin cây cho tr?ng l??ng trung bình t?p ch?t c?a s?n ph?m v?i dô tin c?y $90 \%$.
+(b) Vôi m?c ý ngh?a $5 \%$, có th? k?t lu?n ???c tr?ng l??ng trung bình t?p ch?t c?a s?n ph?m lôn h?n 13 gam hay không?"	
+MI3180-5-2	MI3180-5	hard  	"Câu 4: (3 ?i?m) Dùng ph??ng pháp quy ho?ch tr?c giao cáp m?t xây d?ng mô hình bi?u di?n m?i quan h? gi?a $Y$ và các bi?n ??u vào $Z_1, Z_2$ bi?t: $Y=\beta_0+\beta_1 X_1+\beta_2 X_2+\xi$, (1) v?i
+
+$$
+\left\{\begin{array}{l}
+6 \leq Z_1 \leq 8 \\
+14 \leq Z_2 \leq 20
+\end{array} \quad, X_i=\frac{Z_i-Z_i^0}{\Delta Z_i}, i=1,2\right.
+$$
+
+(a) Hoàn thi?n b?ng th?c nghi?m sau:
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline$N^0$ & $Z_1$ & $Z_2$ & $X_0$ & $X_1$ & $X_2$ & Y \\
+\hline 1 & 6 & 14 & + & & & 15,8 \\
+\hline 2 & 8 & 14 & + & & & 16,7 \\
+\hline 3 & 6 & 20 & + & & & 17,2 \\
+\hline 4 & 8 & 20 & + & & & 17,8 \\
+\hline
+\end{tabular}
+
+Làm $n_0=3$ thí nghi?m t?i tâm có $y_0^1=16,7 ; y_0^2=16,8 ; y_0^3=16,9$.
+(b) Xác ??nh các h? s? h?i quy c?a ph??ng trình (1).
+(c) Ki?m ??nh s? có ngh?a c?a các h? s? h?i quy v?i m?c ý ngh?a 0,05 .
+(d) Ki?m ??nh s? phù h?p c?a m? hình v?i m?c ý ngh?a 0,05 ."	
